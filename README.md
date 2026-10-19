@@ -18,12 +18,12 @@ Fixed allocation per territory: **473,933,649 HCN** - Defined in [TOKENOMICS.md]
 
 ## Documentation
 
-- [00 - Preamble](./00-PRÉAMBULE.md)
-- [01 - Manifesto](./01-MANIFESTE.md)
-- [02 - Whitepaper](./02-PAPIER%20BLANC/)
-- [03 - Constitution](./03-CONSTITUTION/)
-- [04 - Tokenomics Constitution](./04-TOKENOMICS.md)
-- [05 - Roadmap](./05-ROADMAP.md)
+- 00 - Préambule
+- 01 - Manifeste
+- 02 - Livre blanc
+- 03 - Constitution
+- 04 - Tokenomics
+- 05 - Feuille de route
 
 ### Vision
 Building a decentralized financial infrastructure where every nation starts equal.
