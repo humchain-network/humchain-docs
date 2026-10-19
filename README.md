@@ -18,9 +18,9 @@ Fixed allocation per territory: **473,933,649 HCN** - Defined in [TOKENOMICS.md]
 
 ## Documentation
 
-- [00 - Préambule](./00-PRÉAMBULE.md)
+- [00 - Préambule](./00-PREAMBULE.md)
 - [01 - Manifeste](./01-MANIFESTE.md)
-- [02 - Livre blanc](./02-PAPIER%20BLANC)
+- [02 - Livre blanc](./02-WHITEPAPER)
 - [03 - Constitution](./03-CONSTITUTION)
 - [04 - Tokenomics](./04-TOKENOMICS.md)
 - [05 - Feuille de route](./05-ROADMAP.md)
