@@ -1,7 +1,7 @@
 # HumChain Network - $HCN - Litepaper
 **The First Equal-Territory Blockchain for Humanity**
 
-#### Version 1.0 | May 2026 | bikon@humchain.network
+#### Version 1.0 | October 2026
 
 ---
 
@@ -54,5 +54,5 @@ Full details in `05-ROADMAP/ROADMAP.md`
 ### 6. Vision
 HumChain is not for trading. It is the economic infrastructure for a balanced humanity.
 
-**Website:** humchain.network
+**Website:** humchain.network (coming soon)
 **GitHub:** github.com/humchain/humchain-docs
