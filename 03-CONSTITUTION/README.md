@@ -1,6 +1,6 @@
 # Constitution of HumChain Network
 
-This folder will contain the 11 chapters of the Constitution.
+This folder will contain the 10 chapters of the Constitution.
 
 Status: In progress - Will be published after the Whitepaper.
 
