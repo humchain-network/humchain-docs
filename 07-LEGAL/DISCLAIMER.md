@@ -1,7 +1,5 @@
 # HumChain Network - Legal Disclaimer
 
-**Last Updated: May 13, 2026**
-
 This document is for informational purposes only regarding the HumChain Network (HCN) project.
 
 ### 1. No Financial Advice
