@@ -26,7 +26,3 @@ Sponsorship constitutes a mechanism of human adoption of the protocol. Any verif
 
 ### Article 35 — Integrity of Mining Distribution
 HumChain Network protects equity of monetary distribution. Any attempt to create multiple accounts, usurp identity, manipulate mining system, or circumvent proof-of-humanity mechanisms constitutes a violation of the protocol. Fraudulent accounts may be suspended or deleted in accordance with governance rules. Control mechanisms aim to guarantee that distribution of HCN remains faithful to the founding principle: No human, no money. Genesis = 0.
-
----
-### COHERENCE NOTE - To be applied to Final English Version
-For legal coherence, Title III should end at Article 38 (renumbering Articles 27-35 to 27-38 if needed to fill gap), so that Title IV starts at Article 39. This corrects the current numbering overlap where Title III ends at 37 and Title IV also starts at 36.
