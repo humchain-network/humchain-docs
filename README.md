@@ -1,29 +1,42 @@
 # HumChain Network - $HCN
-> The First Equal-Territory Blockchain Protocol
+### The First Equal-Territory Blockchain Protocol
 
-**One Territory = One Identical Allocation: 473,933,649 HCN**
+> **One Territory = One Identical Allocation: 473,933,649 HCN**
+> No territory can receive more than another.
 
-HumChain is a Layer 1 protocol ensuring economic equality between nations. No territory can receive more than another. Total Supply = 473,933,649 x T.
+HumChain is a Layer 1 protocol ensuring economic equality between nations.
 
-### Economic Constitution
+**Total Supply Formula: 473,933,649 x T** (T = Number of Activated Territories)
 
-Fixed allocation per territory: **473,933,649 HCN** - Defined in [TOKENOMICS.md](./TOKENOMICS.md)
+---
 
-- **323,933,649 HCN** - Community Mining (Proof-of-Humanity)
-- **50,000,000 HCN** - Public Sale & Ecosystem Access
-- **75,000,000 HCN** - Dev, Validators & Merchant Financing
-- **25,000,000 HCN** - National Treasury
+### 📜 Economic Constitution
+Fixed allocation per territory: **473,933,649 HCN**
+Defined in `03-CONSTITUTION` - Immutable.
 
-**No territory may receive a higher allocation.**
+Breakdown:
+- 323,933,649 HCN -> Community Mining (Proof-of-Humanity)
+- 25,000,000 HCN -> National Treasury
+- 50,000,000 HCN -> Public Sale & Ecosystem
+- 75,000,000 HCN -> Protocol & Validators
 
-## Documentation
+### 📚 Documentation
 
-- [00 - Préambule](./00-PREAMBULE.md)
-- [01 - Manifeste](./01-MANIFESTE.md)
-- [02 - Livre blanc](./02-WHITEPAPER)
-- [03 - Constitution](./03-CONSTITUTION)
-- [04 - Tokenomics](./04-TOKENOMICS.md)
-- [05 - Feuille de route](./05-ROADMAP.md)
+- **01-LITEPAPER:** The vision in 1 page
+- **02-WHITEPAPER:** Full economic thesis
+- **03-CONSTITUTION:** The supreme law of HCN
+- **04-TOKENOMICS:** Emission and distribution
+- **05-ROADMAP:** 7 Phases - Milestone-Based
+- **06-TECHNICAL:** PoH + Territory Quorum
+- **07-LEGAL:** Disclaimer
 
-### Vision
-Building a decentralized financial infrastructure where every nation starts equal.
+### 🛡️ Core Principle
+**1 Human = 1 Vote. 1 Territory = 1 Vote. Unbribable.**
+
+### 🌐 Links
+- Website: humchain.network (soon)
+- GitHub: github.com/humchain/humchain-docs
+- Constitution: `03-CONSTITUTION/README.md`
+
+---
+**License:** MIT - Open for Humanity.
