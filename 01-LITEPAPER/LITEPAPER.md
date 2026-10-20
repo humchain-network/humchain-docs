@@ -13,7 +13,7 @@ One identical allocation per territory. No territory may receive a higher alloca
 
 ### 3. Tokenomics: $HCN
 
-**To ensure equality, each activation gives rise to a fixed allocation of: 473,933,649 HCN**
+To ensure equality, each activation gives rise to a fixed allocation of: **473,933,649 HCN**
 
 This allocation is distributed across four complementary components:
 
@@ -22,7 +22,8 @@ This allocation is distributed across four complementary components:
 - **50,000,000 HCN** for public sale and ecosystem access
 - **75,000,000 HCN** for protocol development, validators, and merchant financing
 
-**Global Supply = Number of Activated Territories x 473,933,649 HCN**
+Global Supply = Number of Activated Territories x 473,933,649 HCN
+
 This distribution is defined by the Constitution of HumChain Network.
 
 ### 4. Consensus
@@ -30,13 +31,13 @@ Proof-of-Humanity + Territory. Multi-territory quorum. Unbribable.
 
 ### 5. Roadmap: 7 Phases - Milestone-Based
 
-**Phase I: Protocol Foundation**
-**Phase II: Local Economy Development**
-**Phase III: Currency Circulation**
-**Phase IV: Economic Activity Acceleration**
-**Phase V: Advanced Economic Infrastructures**
-**Phase VI: Opening to the Global Economy**
-**Phase VII: Mature Governance - 1 Territory = 1 Vote**
+- **Phase I:** Protocol Foundation
+- **Phase II:** Local Economy Development
+- **Phase III:** Currency Circulation
+- **Phase IV:** Economic Activity Acceleration
+- **Phase V:** Advanced Economic Infrastructures
+- **Phase VI:** Opening to the Global Economy
+- **Phase VII:** Mature Governance - 1 Territory = 1 Vote
 
 Full details: `05-ROADMAP/ROADMAP.md`
 
