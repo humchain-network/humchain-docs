@@ -9,7 +9,6 @@ HumChain is a Layer 1 protocol ensuring economic equality between nations.
 **Total Supply Formula: 473,933,649 x T** (T = Number of Activated Territories)
 
 ---
-
 ### 📜 Economic Constitution
 Fixed allocation per territory: **473,933,649 HCN**
 Defined in `03-CONSTITUTION` - Immutable.
@@ -21,7 +20,6 @@ Breakdown:
 - 75,000,000 HCN -> Protocol & Validators
 
 ### 📚 Documentation
-
 - **01-LITEPAPER:** The vision in 1 page
 - **02-WHITEPAPER:** Full economic thesis
 - **03-CONSTITUTION:** The supreme law of HCN
@@ -35,8 +33,12 @@ Breakdown:
 
 ### 🌐 Links
 - Website: humchain.network (soon)
-- GitHub: github.com/humchain/humchain-docs
+- GitHub: github.com/HumChain-Network
 - Constitution: `03-CONSTITUTION/README.md`
 
 ---
-**License:** MIT - Open for Humanity.
+**License:** Dual License
+- **Docs (01-05, 07):** CC BY-ND 4.0 - Immutable. No derivatives allowed.
+- **Code (06):** BUSL 1.1 - Open for builders, no competing L1.
+
+See `LICENSE` file for full terms. The Economic Constitution (473,933,649 HCN) cannot be altered.
