@@ -6,73 +6,49 @@
 
 This document is the complete economic law of HumChain Network. It is protected as immutable under CC BY-ND 4.0.
 
----
+### Table of Contents
 
-### Chapter 1 — Introduction
-- Purpose of the Tokenomics
-- The role of HCN in the HumChain Network economy
-- Fundamental economic principles
+#### 00 — Introduction
+Purpose, role of HCN, fundamental principles
+> `00-introduction.md`
 
-### Chapter 2 — Economic Philosophy
-- Wealth is created by humans
-- Currency as a circulation tool
-- "No Human, No Money. Genesis = 0."
-- Primacy of the real economy
+#### Chapter 1 — Economic Philosophy
+Wealth is created by humans. Primacy of the real economy.
+> `01-philosophy.md`
 
-### Chapter 3 — The HCN
-- Definition of the native currency
-- Economic functions
-- Use cases
-- Divisibility
+#### Chapter 2 — The HCN
+Definition, functions, use cases, divisibility.
+> `02-the-hcn.md`
 
-### Chapter 4 — Monetary Creation
-- Initial supply: 0 HCN
-- Territory activation
-- Creation of 473,933,649 HCN per territory
-- Dynamic global supply
+#### Chapter 3 — Monetary Creation
+Initial supply 0 HCN. Territory activation. 473,933,649 HCN per territory.
+> `03-monetary-creation.md`
 
-### Chapter 5 — Territorial Allocation Breakdown
-- 323,933,649 HCN: Community Mining (Proof-of-Humanity)
-- 25,000,000 HCN: National Treasury
-- 50,000,000 HCN: Public Sale
-- 75,000,000 HCN: Development, Validators & Ecosystem Funding
+#### Chapter 4 — Territorial Allocation Breakdown
+323,933,649 Mining / 25,000,000 Treasury / 50,000,000 Public Sale / 75,000,000 Development
+> `04-allocation-breakdown.md`
 
-### Chapter 6 — Monetary Distribution
-- How mining works
-- Progressive reward reduction
-- Fair distribution
-- End of mining for a territory
+#### Chapter 5 — Monetary Distribution
+Mining, progressive reduction, fair distribution, end of mining.
+> `05-monetary-distribution.md`
 
-### Chapter 7 — HCN Utility
-- HumPay
-- HumMarket
-- HumAds
-- Network Fees
-- Shops
-- Future Services
+#### Chapter 6 — HCN Utility
+HumPay, HumMarket, HumAds, Fees, Shops, Future Services.
+> `06-hcn-utility.md`
 
-### Chapter 8 — Deflationary Mechanisms
-- Network fees burn
-- 50% of rents burn
-- Impact on supply
-- Progressive scarcity
+#### Chapter 7 — Deflationary Mechanisms
+Network fees burn, 50% rents burn, progressive scarcity.
+> `07-deflationary-mechanisms.md`
 
-### Chapter 9 — Economic Sustainability
-- Balance between emission and burn
-- Value creation through commerce
-- Development of local economies
-- Building the global economy
+#### Chapter 8 — Economic Sustainability
+Balance emission/burn, commerce, local economies, global economy.
+> `08-economic-sustainability.md`
 
-### Chapter 10 — Conclusion
-- Summary of the economic model
-- Long-term vision
-- The immutable principles of HCN
+#### Chapter 9 — Conclusion
+Summary, long-term vision, immutable principles.
+> `09-conclusion.md`
 
 ---
-**Status:**
-- [x] Chapter 1 - Introduction -> `00-introduction.md`
-- [x] Chapter 2 - Philosophy -> `01-philosophy.md`
-- [ ] Chapter 3 -> In progress
-- [ ] Chapter 4-10 -> Coming next
-
-**License:** Dual License - See root `LICENSE`. The value 473,933,649 HCN is immutable.
+**Formula:** Total Supply = 473,933,649 x T
+**Genesis = 0**
+**License:** Dual License - 473,933,649 immutable under CC BY-ND 4.0
