@@ -1,5 +1,5 @@
-# HumChain Network — Tokenomics
-### The Economic Constitution of $HCN
+HumChain Network — Tokenomics
+The Economic Constitution of $HCN
 
 > **No Human, No Money. Genesis = 0.**
 > **Mining distributes money. Commerce gives it utility.**
@@ -13,7 +13,7 @@ This document is protected as **immutable under CC BY-ND 4.0**. No derivative al
 
 ---
 
-## 📑 Index
+📑 Index
 
 | # | Chapter | File |
 |---|---------|------|
@@ -30,7 +30,7 @@ This document is protected as **immutable under CC BY-ND 4.0**. No derivative al
 
 ---
 
-## 💰 Global Economic Formula
+💰 Global Economic Formula
 
 The entire Tokenomics rests on one immutable formula:
 
@@ -40,3 +40,85 @@ Allocation per Territory = 473,933,649 HCN
 Total Maximum Supply = 473,933,649 x T
 
 T = Number of Activated Territories
+*Fundamental Rules:*
+- Initial supply: 0 HCN (No pre-mine)
+- Monetary creation is conditioned by human activation
+- One Territory = One Community = One Economy
+
+Allocation Breakdown per Territory
+
+For every 473,933,649 HCN created by a territory activation:
+
+- *323,933,649 HCN (68.35%)* - Community Mining (Proof-of-Humanity)
+- *25,000,000 HCN (5.27%)* - National Treasury
+- *50,000,000 HCN (10.55%)* - Public Sale
+- *75,000,000 HCN (15.83%)* - Development, Validators & Ecosystem Funding
+
+---
+
+📖 Chapters Overview
+
+00 — Introduction
+Purpose of the Tokenomics, role of HCN in the HumChain economy, and fundamental economic principles.
+
+Chapter 1 — Economic Philosophy
+Wealth is created by humans. Currency as a circulation tool. Primacy of the real economy over speculation.
+
+Chapter 2 — The HCN
+Definition of the native currency, its economic functions, use cases in the ecosystem, and divisibility.
+
+Chapter 3 — Monetary Creation
+Initial supply at 0 HCN. Territory activation principle. Dynamic global supply.
+
+Chapter 4 — Monetary Distribution
+How community mining works. Progressive reward reduction. Fair distribution. End of mining.
+
+Chapter 5 — HCN Utility
+Real uses of HCN: HumPay, HumMarket, HumAds, Network Fees, Digital Shops, Professional Services.
+
+Chapter 6 — Deflationary Mechanisms
+How scarcity is created: Network fees burn, 50% of economic rents burn. Progressive scarcity.
+
+Chapter 7 — Economic Sustainability
+Balance between emission and burn. Value through commerce. Strong local economies build a strong global economy.
+
+Chapter 8 — Economic Risks and Protection Mechanisms
+Anticipation of risks: concentration, fraud, speculation, inactivity, technical, regulatory, governance. Resilience based on humans.
+
+Chapter 9 — Conclusion: A New Vision of Money
+Summary of the model, long-term vision, and the four immutable principles.
+
+---
+
+🔒 The Four Founding Principles
+
+1. *No Human, No Money. Genesis = 0.*
+2. *Mining distributes money. Commerce gives it utility.*
+3. *One Territory = One Community = One Economy.*
+4. *A strong global economy cannot exist without strong local economies.*
+
+---
+
+📊 Status
+
+- http://00-introduction.md
+- http://01-philosophy.md
+- http://02-HCN.md
+- http://03-monetary-creation.md
+- http://04-monetary-distribution.md
+- http://05-hcn-utility.md
+- http://06-deflationary-mechanisms.md
+- http://07-economics-sustainability.md
+- http://08-risks-and-protections.md
+- http://09-conclusion.md
+- http://README.md[x]
+
+License
+
+*Dual License - See `LICENSE` file.*
+
+- Code: MIT / Apache 2.0
+- Content & Economic Formula: CC BY-ND 4.0 (No Derivatives)
+- The core value *473,933,649 HCN* is immutable.
+
+*This Tokenomics is an integral part of the Economic Constitution of HumChain Network.*
