@@ -1,62 +1,191 @@
-# Roadmap - HumChain Network
-### A Progressive Construction
+# HumChain Network — Official Roadmap
 
-HumChain Network is designed as a global economic infrastructure built to evolve progressively.
+### We Build Humans Before Technology.
 
-Its development is based on a phased approach, where each phase prepares the next. The goal is not to rapidly accumulate features, but to build a solid, secure, and sustainable digital economy.
+## Introduction
 
-> Each stage must reinforce the founding principles of the protocol: proof-of-humanity, real economy, decentralization, transparency, and development of local economies.
+The roadmap of **HumChain Network** presents the strategic steps required to progressively build a global economic infrastructure based on **Proof-of-Humanity, trust, and cooperation between territories.**
 
-### Phase I — Protocol Foundation
-This first phase establishes the foundations of HumChain Network.
+Unlike projects that start only with technology, HumChain Network adopts a different approach.
 
-It includes the deployment of the HumChain blockchain, creation of the HCN currency, human registration and verification system, territory activation (T), HumMiner, HumWallet, and initial security mechanisms.
+> Technical infrastructure is essential, but it only makes sense when it serves a real human community.
+> Before building a global digital economy, we must build trust among the humans who will bring it to life.
 
-*Objective: Birth of the first local economies. Genesis = 0.*
+That is why the progression of HumChain Network follows a fundamental logic:
 
-### Phase II — Development of the Local Economy
-Once territories are activated, the protocol opens access to the first economic activities.
+**Build humans before technology.**
 
-This phase includes HumMarket, merchant accounts, shop creation, HCN payments, and initial commercial exchanges.
+The roadmap is organized into successive phases to develop:
 
-*Objective: HCN progressively becomes a currency used in daily exchanges.*
-
-### Phase III — Currency Circulation
-The development of economic activity is accompanied by improved HCN circulation.
-
-This phase includes HumPay, HumP2P, international payments, direct user-to-user exchanges, and initial compatible conversion mechanisms.
-
-*Objective: To allow local economies to interact with each other without technical borders.*
-
-### Phase IV — Acceleration of Economic Activity
-As the network grows, new economic tools support its development.
-
-This phase includes HumAds, visibility services, commercial promotion tools, and customer acquisition solutions.
-
-*Objective: Attention becomes an economic resource serving merchants and the entire ecosystem.*
-
-### Phase V — Advanced Economic Infrastructures
-Once exchanges are established, HumChain Network develops services to support business growth.
-
-This phase includes HumSwap, HumLogistics, HumCredit, and complementary financial infrastructures.
-
-*Objective: To allow businesses to develop their activities in a complete economic environment.*
-
-### Phase VI — Opening to the Global Economy
-When local economies are sufficiently developed, HumChain Network opens to other digital ecosystems.
-
-This phase includes HumChain Universal Gateway, connections with other blockchains, compatible digital assets, international partners, and external liquidity.
-
-*Objective: Local economies become components of an interconnected global economy.*
-
-### Phase VII — Mature Governance
-In the long term, HumChain Network continues to strengthen its decentralized governance.
-
-This phase aims to strengthen user participation, develop governance mechanisms, ensure transparent management of national treasuries, and sustainably preserve the protocol's mission.
-
-*Objective: To allow the network to evolve without ever questioning the fundamental principles inscribed in the Constitution.*
+- the human community;
+- the activation of territories;
+- the technical infrastructure;
+- the real economy;
+- the global interconnection.
 
 ---
-**Immutable Principle:** No evolution can call into question the fundamental principles of the Constitution, including proof-of-humanity, monetary creation conditioned on territory activation with *Genesis = 0*, and priority given to the development of local economies. Total Supply = 473,933,649 x T.
 
-*Each stage pursues the same objective: Building the global economy by strengthening local economies.*
+## Phase 1 — Foundation and Human Community Building
+
+### Objective
+Create the human foundations of HumChain Network before the full launch of the protocol.
+
+### Main Actions
+- Finalization of the White Paper;
+- Publication of the Constitution;
+- Publication of the Tokenomics;
+- Development of the global community;
+- Creation of territorial communities;
+- Setup of official communication channels;
+- Recruitment of the first HumChain representatives;
+- Awareness of Proof-of-Humanity.
+
+### Expected Result
+An initial community composed of people who understand the mission, the economic principles and the responsibility of participating in a new global infrastructure.
+
+---
+
+## Phase 2 — Territorial Organization and Human Activation
+
+### Objective
+Create a human structure capable of supporting each territory in its integration into the network.
+
+### Main Actions
+- Appointment of national representatives;
+- Appointment of city representatives;
+- Appointment of commune representatives;
+- Training of local teams;
+- Organization of territorial communities;
+- Preparation for territory activation.
+
+### Territorial Model
+- A national representative coordinates his country.
+- A city representative supports local communities.
+- A communal representative ensures proximity with inhabitants.
+
+### Expected Result
+A structured HumChain presence in the territories before economic activation.
+
+---
+
+## Phase 3 — Territory Activation and Human Mining Launch
+
+### Objective
+Trigger the economic birth of HumChain territories.
+
+### Main Actions
+- Official opening of registrations;
+- Verification of human identities;
+- Activation of the first territories;
+- Attribution of territorial allocations;
+- Start of community mining;
+- Progressive distribution of HCN.
+
+### Fundamental Principle
+
+Before activation: Territorial Supply = 0 HCN
+
+After activation: Creation of 473,933,649 HCN according to the Constitution
+
+Allocation:
+- 323,933,649 HCN : Community Mining;
+- 25,000,000 HCN : National Treasury;
+- 50,000,000 HCN : Public Sale;
+- 75,000,000 HCN : Development, Validators & Ecosystem.
+
+### Expected Result
+The first territories become autonomous digital economies integrated into the global network.
+
+---
+
+## Phase 4 — Technical Infrastructure Deployment
+
+### Objective
+Transform HumChain Network into a complete blockchain infrastructure.
+
+### Main Actions
+- Deployment of the blockchain network;
+- Setup of validators;
+- Development of the HumWallet;
+- Deployment of HumPay;
+- Development of developer tools;
+- Setup of APIs;
+- Protocol security.
+
+### Expected Result
+A technical infrastructure capable of supporting a decentralized global economy.
+
+---
+
+## Phase 5 — Real Economy Development
+
+### Objective
+Move HumChain Network from a digital community to an active economy.
+
+### Main Actions
+- Launch of HumMarket;
+- Integration of merchants;
+- Integration of artisans and producers;
+- Development of digital shops;
+- Deployment of HumAds;
+- Development of daily payments;
+- Creation of economic partnerships.
+
+### Economic Vision
+> Mining distributes money.
+> Commerce gives it utility.
+
+### Expected Result
+A network where users not only own HCN, but use it in their daily economic life.
+
+---
+
+## Phase 6 — Continental and Global Expansion
+
+### Objective
+Connect local economies within a global economic infrastructure.
+
+### Main Actions
+- Progressive activation of new territories;
+- Development of international exchanges;
+- Creation of global partnerships;
+- Extension of HumChain services;
+- Interconnection of local economies.
+
+### Expected Result
+A global economy built from human communities.
+
+---
+
+## Phase 7 — Evolution and Transmission
+
+### Objective
+Ensure the sustainability of HumChain Network beyond its founders.
+
+### Main Actions
+- Continuous improvement of the protocol;
+- Development of new services;
+- Strengthening of governance;
+- Support for community innovations;
+- Transmission of the vision to future generations.
+
+### Final Vision
+HumChain Network becomes a global economic infrastructure where every verified human can participate, every territory can develop, and every local economy can connect to the world.
+
+---
+
+## Conclusion
+
+The roadmap of HumChain Network is not just a technological calendar.
+
+It represents a process of human construction.
+
+> Because technology can be created quickly.
+> But a sustainable global economy requires time, trust and an engaged community.
+
+HumChain Network moves forward according to a simple principle:
+
+**We build humans before technology.**
+
+Because technology provides the infrastructure.
+But humans create the economy.
