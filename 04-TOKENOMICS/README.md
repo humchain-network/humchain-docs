@@ -2,53 +2,41 @@
 ### The Economic Constitution of $HCN
 
 > **No Human, No Money. Genesis = 0.**
-> **Formula: Total Supply = 473,933,649 x T** (T = Activated Territories)
+> **Mining distributes money. Commerce gives it utility.**
+> **Total Supply = 473,933,649 x T** (T = Activated Territories)
 
-This document is the complete economic law of HumChain Network. It is protected as immutable under CC BY-ND 4.0.
+**HumChain Network** is a global economic infrastructure based on **Proof-of-Humanity**.
 
-### Table of Contents
+This repository is its complete Economic Constitution. It defines the immutable rules of creation, distribution, utility and protection of its native currency **$HCN**.
 
-#### 00 — Introduction
-Purpose, role of HCN, fundamental principles
-> `00-introduction.md`
-
-#### Chapter 1 — Economic Philosophy
-Wealth is created by humans. Primacy of the real economy.
-> `01-philosophy.md`
-
-#### Chapter 2 — The HCN
-Definition, functions, use cases, divisibility.
-> `02-the-hcn.md`
-
-#### Chapter 3 — Monetary Creation
-Initial supply 0 HCN. Territory activation. 473,933,649 HCN per territory.
-> `03-monetary-creation.md`
-
-#### Chapter 4 — Territorial Allocation Breakdown
-323,933,649 Mining / 25,000,000 Treasury / 50,000,000 Public Sale / 75,000,000 Development
-> `04-allocation-breakdown.md`
-
-#### Chapter 5 — Monetary Distribution
-Mining, progressive reduction, fair distribution, end of mining.
-> `05-monetary-distribution.md`
-
-#### Chapter 6 — HCN Utility
-HumPay, HumMarket, HumAds, Fees, Shops, Future Services.
-> `06-hcn-utility.md`
-
-#### Chapter 7 — Deflationary Mechanisms
-Network fees burn, 50% rents burn, progressive scarcity.
-> `07-deflationary-mechanisms.md`
-
-#### Chapter 8 — Economic Sustainability
-Balance emission/burn, commerce, local economies, global economy.
-> `08-economic-sustainability.md`
-
-#### Chapter 9 — Conclusion
-Summary, long-term vision, immutable principles.
-> `09-conclusion.md`
+This document is protected as **immutable under CC BY-ND 4.0**. No derivative allowed on the core formula.
 
 ---
-**Formula:** Total Supply = 473,933,649 x T
-**Genesis = 0**
-**License:** Dual License - 473,933,649 immutable under CC BY-ND 4.0
+
+## 📑 Index
+
+| # | Chapter | File |
+|---|---------|------|
+| **00** | **Introduction** | [`00-introduction.md`](./00-introduction.md) |
+| **01** | **Economic Philosophy** | [`01-philosophy.md`](./01-philosophy.md) |
+| **02** | **The HCN** | [`02-HCN.md`](./02-HCN.md) |
+| **03** | **Monetary Creation** | [`03-monetary-creation.md`](./03-monetary-creation.md) |
+| **04** | **Monetary Distribution** | [`04-monetary-distribution.md`](./04-monetary-distribution.md) |
+| **05** | **HCN Utility** | [`05-hcn-utility.md`](./05-hcn-utility.md) |
+| **06** | **Deflationary Mechanisms** | [`06-deflationary-mechanisms.md`](./06-deflationary-mechanisms.md) |
+| **07** | **Economic Sustainability** | [`07-economics-sustainability.md`](./07-economics-sustainability.md) |
+| **08** | **Economic Risks and Protection** | [`08-risks-and-protections.md`](./08-risks-and-protections.md) |
+| **09** | **Conclusion: A New Vision of Money** | [`09-conclusion.md`](./09-conclusion.md) |
+
+---
+
+## 💰 Global Economic Formula
+
+The entire Tokenomics rests on one immutable formula:
+
+```text
+Genesis Supply = 0 HCN
+Allocation per Territory = 473,933,649 HCN
+Total Maximum Supply = 473,933,649 x T
+
+T = Number of Activated Territories
