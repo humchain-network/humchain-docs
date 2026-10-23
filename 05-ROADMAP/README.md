@@ -10,19 +10,18 @@ This repository is the official operational roadmap for the next 7 years (2026-2
 
 **Core Economic Rule:** 1 Territory = 473,933,649 HCN = One Community = One Economy
 
-## 📑 Index — 9 Official Chapters
+## 📑 Index — 8 Official Chapters
 
 | # | Chapter | Period | File |
 |---|---------|--------|------|
 | **00** | **Introduction - Why a Different Path** | Vision | [`00-introduction.md`](./00-introduction.md) |
-| **01** | **Phase 0 - Foundation and Preparation** | 2026 | [`01-phase-0-foundation.md`](./01-phase-0-foundation.md) |
-| **02** | **Phase 1 - Human Network Construction** | 2026-2027 | [`02-phase-1-human-network.md`](./02-phase-1-human-network.md) |
-| **03** | **Phase 2 - Territorial Economic Activation** | 2027 | [`03-phase-2-activation.md`](./03-phase-2-activation.md) |
-| **04** | **Phase 3 - Birth of the HumChain Economy** | 2027-2028 | [`04-phase-3-birth.md`](./04-phase-3-birth.md) |
-| **05** | **Phase 4 - Expansion and Interconnection** | 2028-2029 | [`05-phase-4-expansion.md`](./05-phase-4-expansion.md) |
-| **06** | **Phase 5 - Continental Scale** | 2029-2030 | [`06-phase-5-continental.md`](./06-phase-5-continental.md) |
-| **07** | **Phase 6 - Global Interconnection** | 2030-2032 | [`07-phase-6-interconnection.md`](./07-phase-6-interconnection.md) |
-| **08** | **Phase 7 - Global Economic Infrastructure** | 2033+ | [`08-phase-7-infrastructure.md`](./08-phase-7-infrastructure.md) |
+| **01** | **Preamble - Foundation** | 2026 | [`01-preamble.md`](./01-preamble.md) |
+| **02** | **Foundation and Preparation** | 2026 | [`02-foundation.md`](./02-foundation.md) |
+| **03** | **Human Network Construction** | 2026-2027 | [`03-human-network.md`](./03-human-network.md) |
+| **04** | **Territorial Economic Activation** | 2027 | [`04-territory-activation.md`](./04-territory-activation.md) |
+| **05** | **Birth of the HumChain Economy** | 2027-2028 | [`05-economics-ecosystem.md`](./05-economics-ecosystem.md) |
+| **06** | **Continental and Global Expansion** | 2028-2029 | [`06-continental-global-expansion.md`](./06-continental-global-expansion.md) |
+| **07** | **Sustainability, Innovation and Transmission** | 2033+ | [`07-sustainability-innovation.md`](./07-sustainability-innovation.md) |
 
 ## The 3 Pillars (7-Year Logic)
 
