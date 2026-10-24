@@ -1,0 +1,164 @@
+# Data and Registration Policy
+
+## Preamble
+
+HumChain Network is a global economic infrastructure based on Proof-of-Humanity. Its objective is to enable every verified human being to participate in a decentralized economy while guaranteeing the uniqueness of each identity and respect for privacy.
+
+Unlike some projects that claim to retain no data, HumChain adopts a transparent approach: certain information must be retained in order to protect the network against multiple accounts, identity theft and fraud.
+
+The protection of personal data is a fundamental principle of the protocol. No personal data is recorded on the blockchain. Information that can identify a person is stored only in secure off-chain infrastructures, according to the principles of minimization, proportionality and security.
+
+---
+
+## Fundamental Principles
+
+HumChain applies the following principles:
+
+- no personal data is recorded on the blockchain, even in encrypted form; only a cryptographic proof of validity may be recorded there;
+- only information strictly necessary for a person's uniqueness, for the security of the network or for legal obligations is collected;
+- personal data is stored off-chain in systems distinct from the blockchain infrastructure;
+- identification data is separated from technical data in order to limit risks in the event of an incident;
+- each data processing pursues a clearly defined and documented purpose.
+
+---
+
+## Data Collected
+
+### Country
+
+The country allows each person to be attached to their activation territory.
+
+This information is necessary for the functioning of HumChain Network's territorial model, in which each verified human participates in the economic development of a single territory.
+
+Retention: yes.
+
+### City
+
+The city allows for local organization of the network and facilitates the work of territorial representatives.
+
+If this information is no longer essential to the protocol, it may be deleted or made optional.
+
+### Last name and first names
+
+Last and first names are only collected when they are necessary for a regulatory identification procedure (KYC).
+
+When the protocol no longer needs them, they are not retained by HumChain Network.
+
+### Verified Phone
+
+The phone number allows:
+- verification of a real user;
+- account security;
+- limitation of multiple registrations.
+
+The number is not stored in plain text when technically possible.
+
+A cryptographic fingerprint (hash) is preferred in order to limit risks related to a data leak.
+
+### Territorial Code
+
+The territorial code confirms the attachment of a user to their activation territory.
+
+It is linked to the territory and the protocol, and not to the user's personal identity.
+
+### Facial Biometrics
+
+Biometrics is the main mechanism to ensure that a natural person can only have a single HumChain identity.
+
+The protocol applies the following rules:
+- no raw photograph is retained;
+- only an irreversible biometric template is used;
+- the system includes a liveness check to verify the real presence of a person;
+- the performance of the system must be regularly audited to identify potential biases.
+
+Biometrics is used exclusively to guarantee the human uniqueness of the network.
+
+### PIN Code
+
+The six-digit PIN code protects local access to the user's wallet.
+
+HumChain Network never stores this code.
+
+It is only used to unlock a cryptographic key stored on the user's device.
+
+### Recovery Code
+
+The recovery mechanism must allow a user to regain access to their wallet without HumChain Network being able to take control of their assets.
+
+The protocol will favor non-custodial recovery so that the user remains the sole owner of their keys.
+
+### Identity Document (KYC)
+
+When regulation requires identity verification, it is carried out by a specialized KYC provider.
+
+As far as possible:
+- HumChain does not retain identity documents;
+- the KYC provider applies the legal retention obligations specific to the jurisdictions concerned.
+
+### Identity Verification (KYC)
+
+The exact scope of KYC will be defined by protocol governance in accordance with regulatory requirements.
+
+Depending on the case, it may concern:
+- only public sales of HCN;
+- certain regulated operations;
+- or other situations imposed by local legislation.
+
+Before activation of a territory, HumChain will verify the legal requirements applicable to that country.
+
+When the KYC provider already performs a reliable biometric comparison between the face and the identity document, the protocol will avoid implementing a second redundant biometric processing.
+
+---
+
+## User Rights
+
+Each user benefits in particular from:
+- clear information before any collection;
+- explicit consent when required, especially for biometric processing;
+- a right of access to their personal data;
+- a right of rectification;
+- a right to erasure within limits compatible with protocol security;
+- a right of appeal in accordance with applicable regulations.
+
+HumChain will transparently document any limitations between the right to erasure and the need to prevent the creation of multiple accounts.
+
+---
+
+## Data Security
+
+Security is an essential element of human trust.
+
+HumChain implements in particular:
+- encryption of data at rest and in transit;
+- separation between databases and cryptographic keys;
+- strict and logged access control;
+- regular security audits;
+- an incident response plan including notification procedures provided for by applicable regulations;
+- mechanisms to limit potential biases of biometric systems;
+- alternative solutions for people unable to perform certain liveness tests.
+
+---
+
+## Legal Compliance
+
+HumChain Network adapts its operation to the regulations applicable in each territory.
+
+Legal analyses must focus in particular on:
+- the legal basis for biometric processing;
+- impact assessments relating to data protection;
+- national restrictions concerning facial recognition;
+- international data transfers;
+- the respective responsibilities of the protocol, territorial representatives and KYC providers.
+
+---
+
+## Questions Remaining to be Defined
+
+The following items will be subject to technical and legal decisions before the launch of the network:
+- the location of personal data hosting;
+- data access methods and control mechanisms;
+- the final non-custodial account recovery system;
+- specific measures provided for in the event of compromise of a biometric template;
+- retention periods applicable to each category of data according to the regulatory requirements of the territories concerned.
+
+HumChain Network considers that trust is not based on the absence of data, but on minimal, transparent, secure collection exclusively intended to protect human uniqueness, the sovereignty of territories and the integrity of its global economic infrastructure.
