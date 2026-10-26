@@ -1,60 +1,44 @@
-# 00 — Executive Summary — HumChain Economic Foundation & Business Model
+# Executive Summary — HumChain Economic Foundation & Business Model
+7 Parties — 11 Chapitres — Méthode : partie par partie, chapitre par chapitre
 
-**One-liner:** HumChain is not a marketplace. It is the economic infrastructure layer that lets multiple local marketplaces, services, and organizations run — built from verified humans.
+> Une économie mondiale construite à partir d'économies locales fortes.
 
-> A global economy built from strong local economies.
+### Partie I — Fondements économiques (2 chapitres)
+**Chapitre 1 — Le problème économique actuel**
+Objectif : démontrer le problème réel, pourquoi les acteurs locaux manquent d'infra adaptée, nécessité d'un nouveau modèle.
 
-### 1. The Problem
-Local merchants lack visibility. Social networks (Facebook, WhatsApp) are not built for commerce. Centralized marketplaces (Amazon, Jumia) extract value but don't build local economic strength. Result: $2T+ of local commerce in Africa remains fragmented and invisible.
+**Chapitre 2 — HumChain : une infrastructure économique, pas une marketplace**
+Pas une marketplace unique. Permet à plusieurs de fonctionner. Couche économique commune. Annuaire structuré au centre.
 
-### 2. The Solution — Infrastructure, not Marketplace
-HumChain does NOT own a single marketplace. 
-HumChain provides:
-- **A structured economic directory** — every business, service, person geolocated and verified
-- **Proof-of-Humanity** — one human = one account
-- **A common economic layer** — on which anyone can build a marketplace, payment, delivery service
+### Partie II — Adoption économique (2 chapitres)
+**Chapitre 3 — Pourquoi les humains rejoignent HumChain**
+Preuve d'humanité, appartenance à une économie numérique, accès marchés/services/orga, participation au territoire.
 
-We are Stripe + Google Maps + LinkedIn for local economies, not Amazon.
+**Chapitre 4 — Pourquoi les acteurs économiques rejoignent HumChain**
+Visibilité, clientèle, fournisseurs, services économiques, intégration réseau.
 
-### 3. Why They Join
+### Partie III — Création de valeur (2 chapitres)
+**Chapitre 5 — La boucle économique HumChain**
+Humains vérifiés → Commerces intégrés → Services disponibles → Transactions → Utilité HCN → Expansion.
 
-**Humans:** To prove they are real, belong to a digital economy, access markets/services, and participate in their territory's economy.
+**Chapitre 6 — L'avantage stratégique difficile à reproduire**
+Réseau humain, identification territoriale, infrastructure commerciale, modèle combiné.
 
-**Businesses:** For 5 reasons: Visibility + Customers + Suppliers + Economic Services + Network integration. And they accept HCN because it brings customers.
+### Partie IV — Business Model (2 chapitres)
+**Chapitre 7 — Création de valeur et revenus**
+Où est le revenu ? Services autour infra, marketplaces, outils pro, HumPay, HumAds, services entreprises/institutions.
 
-### 4. The Economic Loop (Network Effect)
+**Chapitre 8 — Le rôle économique du HCN**
+Pas seulement un actif. Monnaie native, moyen d'échange, circulation économique, lien entre participants.
 
-Verified Humans → Integrated Businesses → Available Services → Economic Transactions → Utility of HCN → Network Expansion → More Humans
+### Partie V — Expansion mondiale (1 chapitre)
+**Chapitre 9 — Développement territorial vers une économie mondiale**
+Économie locale forte, indépendance territoriale, connexion progressive au monde.
 
-This loop is defensible because it is **territorial, human, and commercial** at once. Not just code.
+### Partie VI — Confiance et gouvernance (1 chapitre)
+**Chapitre 10 — La confiance comme fondation économique**
+Preuve d'humanité, protection des données, gouvernance territoriale.
 
-### 5. Business Model — Where is the Revenue?
-
-We don't monetize the infrastructure. We monetize services AROUND it:
-
-1.  **Marketplaces commission** — Transaction fee on local marketplaces built on HumChain
-2.  **Pro Tools (SaaS)** — POS, inventory, CRM for businesses — $10-49/mo
-3.  **HumPay** — Payment processing fee (1.5%)
-4.  **HumAds** — Local search & map ads — the "Google Ads" for physical commerce
-5.  **Enterprise & Institution Services** — Data, verification, economic reports for cities, NGOs, banks
-
-**HCN Role:** Native currency = medium of exchange, not just a speculative asset. It circulates: Human -> Business -> Supplier -> Service. Velocity = value.
-
-### 6. Go-to-Market: Local First, Global by Connection
-
-We start territory by territory. Build a strong local economy in Yaoundé, then Douala, then Abidjan. Then connect them. Global economy emerges from connected strong local economies, not the other way around.
-
-### 7. Trust as Foundation
-
-- Proof of Humanity
-- Data protection — user owns data
-- Territorial governance — local validators, local rules
-
-### 8. Vision
-
-> Transform fragmented invisible local commerce into a structured, sovereign, global economic network.
-
-**Ask:** $XXXk pre-seed to finalize 3 territories + HumPay pilot.
-
----
-**Status:** Draft v0.1 | Next: Chapter 7 (Revenue deep-dive) and Chapter 1
+### Partie VII — Vision (1 chapitre)
+**Chapitre 11 — La transformation économique recherchée**
+Conclusion vision long terme.
