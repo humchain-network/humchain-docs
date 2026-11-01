@@ -1,37 +1,178 @@
 # TITLE II — THE HCN CURRENCY
 
 ### Article 15 — Native Currency
-HCN is the native and official currency of HumChain Network. It constitutes the economic reference unit of the protocol and enables the operation of the entire ecosystem. HCN is notably used for payments, exchanges, digital services, commercial activities, network fees, economic mechanisms, governance operations, as well as any other function provided for by this Constitution. The fundamental functions reserved for HCN cannot be exercised by means of another currency.
+
+HCN is the native currency of HumChain Network.
+
+It constitutes the economic unit of reference within the protocol and enables participation in the decentralized economic infrastructure.
+
+HCN may be used for economic activities, payments, access to ecosystem services, commercial interactions, and other functions defined by this Constitution.
+
+HCN is the only currency recognized for the native economic mechanisms of HumChain Network.
+
+---
 
 ### Article 16 — Principle of Monetary Creation
-HumChain Network rests on the fundamental principle: "No human, no money. Genesis = 0." At the genesis of the protocol, the total supply is set at 0 HCN. No monetary creation occurs as long as no territory has been activated. Creation of money can only result from activation of a territory by its first verified inhabitant, in accordance with the rules of the protocol. A non-activated territory possesses no monetary issuance.
+
+HumChain Network is founded on the principle:
+
+**"No Human, No Money. Genesis = 0."**
+
+At the genesis of the protocol:
+
+- total supply is 0 HCN;
+- no territory possesses a monetary allocation;
+- no currency exists before human and territorial activation.
+
+The creation of HCN can only result from the activation of a territory by its first verified inhabitant according to the rules established by this Constitution.
+
+A non-activated territory has no monetary issuance.
+
+---
 
 ### Article 17 — Maximum Territorial Supply
-Each territory recognized by HumChain Network has a maximum and unique allocation of 473,933,649 HCN. This allocation is created only once, upon activation of the territory. No additional issuance can be granted to this territory. The theoretical maximum supply of the protocol is equal to the number of territories activated during the activation period provided by the protocol, multiplied by 473,933,649 HCN.
+
+Each territory recognized by HumChain Network receives a unique maximum allocation of:
+
+**473,933,649 HCN**
+
+This allocation is created only once upon territorial activation.
+
+No additional issuance may be granted to the same territory.
+
+The theoretical maximum supply of HumChain Network corresponds to:
+
+**Number of Activated Territories × 473,933,649 HCN**
+
+during the activation period defined by the protocol.
+
+---
 
 ### Article 18 — Constitutional Distribution
-The allocation of 473,933,649 HCN is irrevocably distributed as follows: 323,933,649 HCN intended for community mining; 25,000,000 HCN intended for the national treasury; 50,000,000 HCN intended for public sale and ecosystem liquidity; 75,000,000 HCN intended for protocol development, validators, and financing of commercial development. This distribution constitutes the fundamental economic balance of HumChain Network.
+
+The territorial allocation of 473,933,649 HCN is distributed according to the following constitutional proportions:
+
+- 323,933,649 HCN — Community Mining;
+- 25,000,000 HCN — National Treasury;
+- 50,000,000 HCN — Public Sale and Ecosystem Access;
+- 75,000,000 HCN — Protocol Development, Validators and Ecosystem Support.
+
+This distribution constitutes the fundamental economic balance of HumChain Network.
+
+Any modification of this distribution requires the constitutional revision procedure.
+
+---
 
 ### Article 19 — National Treasuries
-Each activated territory has a national treasury endowed with an initial allocation of 25,000,000 HCN. This treasury constitutes a strategic reserve intended primarily for the security and resilience of the territory, then for the development of its local economy. Its operation is governed by the provisions of Title VII. Without territorial activation, no national treasury can exist.
+
+Each activated territory receives a National Treasury allocation of:
+
+**25,000,000 HCN**
+
+This treasury constitutes a strategic economic reserve intended to support territorial resilience, security and local economic development.
+
+Its operation is governed by Title VII.
+
+Without territorial activation, no National Treasury exists.
+
+---
 
 ### Article 20 — Divisibility
-HCN is divisible up to 16 decimals. This precision allows microtransactions, daily payments, and any economic operation requiring high precision. User interfaces may display reduced precision without modifying the native precision of the protocol.
+
+HCN is divisible up to 16 decimal places.
+
+This precision allows small-value transactions, daily economic activities and precise accounting within the ecosystem.
+
+User interfaces may display simplified values without modifying the native precision of the protocol.
+
+---
 
 ### Article 21 — Utility Currency
-HCN is a utility currency. It is intended notably for: making payments; accessing protocol services; creating and developing economic activities; paying network fees; paying rents and deposits provided by the protocol; using ecosystem applications; participating in exchanges between activated territories. Its value rests primarily on its economic utility, its scarcity, and its issuance conditioned by proof of humanity.
+
+HCN is a utility currency designed to support economic participation.
+
+Its primary purposes include:
+
+- facilitating payments;
+- supporting commercial activities;
+- accessing ecosystem services;
+- participating in economic applications built on HumChain;
+- supporting exchanges between activated territories.
+
+HCN derives its utility from economic activity, territorial participation, scarcity principles and human-based issuance.
+
+HumChain Network does not operate as a trading platform. Exchange and speculative trading services, when available, remain external services independent from the protocol.
+
+---
 
 ### Article 22 — Monetary Distribution
-Putting HCN into circulation is carried out exclusively according to mechanisms provided by this Constitution. It includes notably: 1. activation of a territory by its first verified inhabitant; 2. progressive distribution of the 323,933,649 HCN intended for mining; 3. use of the national treasury in accordance with governance rules; 4. putting into circulation of the 50,000,000 HCN intended for public sale; 5. use of the 75,000,000 HCN intended for protocol development, validators, and financing of commercial development. Any monetary creation outside these mechanisms is prohibited.
+
+HCN circulation occurs exclusively through mechanisms established by this Constitution.
+
+These mechanisms include:
+
+1. activation of territories by verified human participation;
+2. progressive distribution of community mining allocation;
+3. use of National Treasuries according to governance rules;
+4. circulation of ecosystem access allocations;
+5. protocol development and ecosystem support mechanisms.
+
+Any monetary creation outside these constitutional mechanisms is prohibited.
+
+---
 
 ### Article 23 — Monetary Destruction
-The protocol integrates permanent mechanisms of monetary destruction intended to progressively reduce circulating supply. Destroyed HCN are definitively withdrawn from supply and cannot be recreated. Fundamental mechanisms include notably: destruction of 100% of network fees; destruction of 50% of economic rents; any other mechanism adopted in accordance with this Constitution.
+
+HumChain Network may include permanent mechanisms of monetary destruction designed to regulate certain protocol activities.
+
+Destroyed HCN are permanently removed from circulation and cannot be recreated.
+
+These mechanisms may include:
+
+- destruction of network fees according to protocol rules;
+- destruction of defined economic charges;
+- other mechanisms adopted through constitutional procedures.
+
+---
 
 ### Article 24 — Monetary Scarcity
-The scarcity of HCN rests on five complementary principles: a fixed maximum allocation per territory; issuance conditioned by real human presence; progressive distribution by mining; permanent destruction of part of the supply; demand created by economic activity. The scarcity of HCN is at once human, economic, and deflationary.
+
+The scarcity of HCN is based on complementary principles:
+
+- fixed maximum allocation per territory;
+- monetary creation conditioned by verified human presence;
+- progressive distribution through mining;
+- permanent removal mechanisms;
+- economic utility created by real activity.
+
+HCN scarcity is therefore based on human, economic and protocol foundations.
+
+---
 
 ### Article 25 — Monetary Integrity
-No person, validator, organization, territory, or governance body can create HCN beyond the limits set by this Constitution. No territory can receive an allocation greater than 473,933,649 HCN. Any modification of territorial supply, its distribution, or fundamental principles of monetary creation falls exclusively under the constitutional revision procedure.
+
+No individual, validator, organization, territory or governance body may create HCN beyond the limits established by this Constitution.
+
+No territory may receive an allocation greater than:
+
+**473,933,649 HCN**
+
+Any modification affecting territorial supply, monetary creation principles or constitutional distribution requires the constitutional revision procedure.
+
+---
 
 ### Article 26 — Protection of the Currency
-HCN constitutes a common good of the HumChain Network ecosystem. Rules relating to its creation, distribution, use, and destruction aim to preserve: economic stability of the protocol; equity between participants; trust in the currency; security of activated territories; sustainability of infrastructure. Any evolution of the monetary system must remain faithful to the founding principle: "No human, no money. Genesis = 0."
+
+HCN constitutes a fundamental economic asset of the HumChain Network ecosystem.
+
+The rules governing its creation, distribution, utilization and destruction aim to preserve:
+
+- economic stability;
+- territorial equality;
+- participant trust;
+- protocol security;
+- long-term sustainability.
+
+Any evolution of the monetary system must remain faithful to the founding principle:
+
+**"No Human, No Money. Genesis = 0."**
