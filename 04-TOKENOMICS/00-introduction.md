@@ -1,13 +1,14 @@
 # HumChain Network — Tokenomics
-### Introduction
+
+## Introduction
 
 The Tokenomics of HumChain Network defines the economic principles that govern the creation, distribution, utilization, and preservation of value of HCN, the native currency of the protocol.
 
-Unlike traditional economic models, where monetary creation is generally decided by a central authority or predetermined in advance, HumChain Network adopts a fundamentally different approach.
+Unlike traditional economic models, where monetary creation is generally decided by a central authority or predetermined before real economic participation exists, HumChain Network adopts a fundamentally different approach.
 
 Monetary creation is not an arbitrary event.
 
-It is the direct consequence of human presence.
+It is the direct consequence of verified human presence.
 
 That is why HumChain Network rests on an immutable founding principle:
 
@@ -15,33 +16,43 @@ That is why HumChain Network rests on an immutable founding principle:
 
 At the genesis of the protocol, no HCN exists.
 
-No territory holds an allocation.
+No territory holds a monetary allocation.
 
 No currency is pre-mined.
 
-No reserve is constituted.
+No reserve is created before human activation.
 
-Monetary creation begins only when a territory is activated by its first verified inhabitant. This activation marks the official entry of the territory into the global economic infrastructure of HumChain Network and triggers the creation of its constitutional allocation.
+Monetary creation begins only when a territory is activated by its first verified inhabitant. This activation marks the official entry of the territory into the decentralized economic infrastructure of HumChain Network and triggers the creation of its constitutional allocation.
 
-Thus, the global supply of HCN is neither fixed from the origin nor created all at once.
+Thus, the global supply of HCN is neither created all at once nor controlled by a centralized issuance mechanism.
 
-It is built progressively, at the pace of the integration of territories and their human communities.
+It is progressively established according to the activation of territories and the participation of their verified human communities.
 
-This approach reflects the fundamental conviction of HumChain Network: currency must reflect human activity and accompany the development of the real economy, rather than precede it.
+This approach reflects the fundamental conviction of HumChain Network:
+
+Currency must emerge from human participation and support the development of the real economy, rather than exist independently from it.
 
 HCN was therefore not designed as a simple digital asset.
 
-It is the currency of a global economic infrastructure whose objective is to strengthen local economies before connecting them to an open, transparent, and decentralized world economy.
+It is the native currency of a decentralized economic infrastructure designed to enable individuals, merchants, businesses, developers, and communities to build economic activities on top of a common protocol.
 
-This Tokenomics outlines all the economic mechanisms of the protocol: monetary creation, distribution of territorial allocations, mining, monetary destruction mechanisms, uses of HCN, and the principles that ensure the stability and sustainability of the ecosystem.
+HumChain Network itself does not operate as a centralized exchange, decentralized exchange, marketplace, or commercial intermediary.
 
-It complements the Whitepaper, which presents the vision of HumChain Network, and the Constitution, which defines the fundamental rules of the protocol.
+Its role is to provide the foundational infrastructure, monetary system, security mechanisms, and economic rules that allow independent applications, services, and economic actors to interact within the ecosystem.
 
-Its objective is to provide a clear, transparent, and sustainable understanding of the economic functioning of HumChain Network so that every user, developer, partner, investor, or institution can understand the foundations of the HCN economic model.
+The economic activity comes from humans.
 
-Because a sustainable economy does not rely solely on high-performing technology.
+The protocol provides the infrastructure.
 
-It relies above all on stable, transparent economic rules that are faithful to their mission.
+This Tokenomics outlines the economic mechanisms of HumChain Network: monetary creation, territorial allocation, mining distribution, monetary preservation mechanisms, HCN utility, and the principles ensuring the stability and sustainability of the protocol.
+
+It complements the Whitepaper, which presents the vision of HumChain Network, and the Constitution, which defines the fundamental rules governing the protocol.
+
+Its objective is to provide a clear, transparent, and sustainable understanding of the HCN economic model so that every user, developer, partner, investor, or institution can understand the foundations of this new monetary approach.
+
+Because a sustainable economic infrastructure does not rely solely on advanced technology.
+
+It relies above all on stable, transparent, and mission-aligned economic rules.
 
 And this mission is simple:
 
