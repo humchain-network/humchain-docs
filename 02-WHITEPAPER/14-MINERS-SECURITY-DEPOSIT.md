@@ -1,30 +1,69 @@
 # CHAPTER 14 — THE MINER'S SECURITY DEPOSIT
 
-HumChain Network is built on a lasting relationship between each user and their territory.
+> HumChain Network (HCN) - L1 Proof-of-Humanity
+> Principle: No Human, No Money. Genesis = 0
+> License: Proprietary - All Rights Reserved
 
-To strengthen this commitment, the protocol introduces a mechanism called the Miner's Security Deposit.
+---
 
-The first 100 HCN earned by a user through community mining are not immediately available. They constitute a personal security deposit held by the protocol for as long as the account remains active.
+### 14.1 Protecting Human Identity and the Economic Infrastructure
 
-This deposit remains permanently locked while the account is active. It cannot be transferred, used as a means of payment, supplied to any application or service within the HumChain ecosystem, or made available for trading on external platforms.
+HumChain Network is built on a lasting relationship between each verified human, their territory, and the decentralized economic infrastructure they help strengthen.
 
-Its purpose is not to restrict users, but to sustainably protect the integrity of the network.
+To reinforce this commitment, the protocol introduces a mandatory mechanism known as the Miner's Security Deposit (MSD).
 
-This mechanism pursues several objectives:
+The first 100 HCN earned through community mining are automatically reserved as a personal security deposit.
 
-- to encourage sustainable participation in the protocol;
-- to limit the creation of temporary or fraudulent accounts;
-- to strengthen trust in the Proof-of-Humanity system;
-- to ensure that an account represents a genuine commitment to its territory.
+This deposit remains locked by the protocol for as long as the account remains active.
 
-When the holder voluntarily decides to permanently close their account, the security deposit is returned after deduction of the closure fees provided for by the protocol.
+It cannot be transferred, exchanged, spent, pledged, or used in any economic activity within the HumChain ecosystem.
 
-These fees notably cover administrative operations, verifications required for the permanent closure of the account, and associated security mechanisms.
+Its purpose is not to restrict users, but to strengthen the integrity, stability, and trust of the decentralized economic infrastructure.
 
-The security deposit does not constitute a penalty or a permanent tax.
+---
 
-It represents a mutual commitment between the user and HumChain Network: the protocol protects identity, currency and territory; the user participates sustainably in the development of their local economy.
+### 14.2 Strengthening the Proof-of-Humanity
 
-Consistent with HumChain Network's principle of commercial neutrality, the Miner's Security Deposit is exclusively a protocol-level security mechanism. It is not intended for commercial use, payment, exchange, or trading, and does not alter the fact that HumChain Network is neither a centralized exchange (CEX) nor a decentralized exchange (DEX), but a decentralized economic infrastructure.
+The Miner's Security Deposit supports several fundamental objectives:
 
-In accordance with the founding principles of HumChain Network, this mechanism strengthens the stability of the network without calling into question the ownership of the HCN mined by its holder.
+- strengthening the Proof-of-Humanity system;
+- discouraging fraudulent or temporary accounts;
+- reinforcing the long-term commitment between each verified human and its territory;
+- protecting the integrity of the community mining mechanism;
+- increasing trust throughout the HumChain economic ecosystem.
+
+By creating a lasting economic bond between a verified identity and its territory, the deposit contributes to the long-term stability of the network.
+
+---
+
+### 14.3 A Commitment, Not a Penalty
+
+The Miner's Security Deposit is neither a tax nor a financial penalty.
+
+The reserved HCN remain the property of their holder.
+
+They are simply locked by the protocol as a security mechanism while the account remains active.
+
+This approach aligns economic participation with long-term responsibility while preserving user ownership of the mined currency.
+
+---
+
+### 14.4 Account Closure
+
+If a user voluntarily and permanently closes their account in accordance with the protocol rules, the security deposit may be released after deduction of the applicable account-closure fees.
+
+These fees may cover administrative processing, identity verification, security procedures, and other operations required to ensure the permanent closure of the account while preserving the integrity of the protocol.
+
+---
+
+### 14.5 Protecting the Economy Before Protecting the Currency
+
+The Miner's Security Deposit reflects one of HumChain Network's core principles: protecting the economic infrastructure before protecting the currency itself.
+
+By reinforcing identity, trust, and long-term participation, this mechanism contributes to a resilient ecosystem where verified humans, merchants, businesses, developers, validators, and territories can cooperate with confidence.
+
+The Miner's Security Deposit is therefore not intended to limit economic participation, but to preserve the integrity of the decentralized economic infrastructure on which HumChain Network is built.
+
+> "Trust begins with verified humans. The Miner's Security Deposit strengthens that trust, protecting the economic infrastructure that connects people, territories, commerce, and real-world value creation."
+
+*End of Chapter 14*
