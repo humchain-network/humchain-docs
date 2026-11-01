@@ -2,40 +2,42 @@
 
 We, members of the HumChain Network community,
 
-Convinced that true wealth is born from human activity, work, entrepreneurship, commerce, innovation, cooperation, and trust;
+Convinced that true economic value is created through human activity, work, entrepreneurship, commerce, innovation, cooperation, and trust;
 
-Recognizing that money is not an end in itself, but an instrument intended to facilitate exchanges and support the development of the real economy;
+Recognizing that money is not an objective in itself, but a tool designed to facilitate exchanges, preserve economic relationships, and support the development of the real economy;
 
-Affirming that decentralized technologies must be placed in service of people, communities, and territories, in order to foster a more open, more equitable, and more sustainable global economy;
+Affirming that decentralized technologies must serve people, communities, and territories by providing open and transparent economic infrastructure;
 
-Considering that each territory possesses resources, talents, and activities that deserve to be valued before contributing to an interconnected global economy;
+Considering that every territory contains resources, talents, knowledge, and economic activities that must first be strengthened locally before participating in an interconnected global economy;
 
-Proclaiming that any monetary creation must be based on real human presence, in accordance with the founding principle:
+Proclaiming that monetary creation must be linked to verified human participation, according to the founding principle:
 
-"No human, no money. Genesis = 0."
+**"No Human, No Money. Genesis = 0 HCN."**
 
-Declare that HumChain Network is a decentralized global economic infrastructure, based on proof of humanity, intended to strengthen local economies, facilitate exchanges, support entrepreneurship, and progressively connect territories within the same economic network.
+Declare that HumChain Network is a decentralized global economic infrastructure based on Proof-of-Humanity and territorial participation, designed to strengthen local economies, facilitate economic interactions, support entrepreneurship, and progressively connect territories within a shared global network.
 
-This Constitution constitutes the supreme norm of HumChain Network.
+This Constitution constitutes the supreme normative foundation of HumChain Network.
 
-It establishes the fundamental principles, the rules of creation and distribution of money, the rights and obligations of participants, governance mechanisms, as well as guarantees intended to durably preserve the identity, stability, and mission of the protocol.
+It establishes the fundamental principles of the protocol, the rules governing monetary creation and distribution, the rights and responsibilities of participants, governance principles, and the guarantees required to preserve the identity, integrity, stability, and mission of the network.
 
-Any technical, economic, organizational, or institutional evolution of HumChain Network must be compliant with the provisions of this Constitution.
+Any technical, economic, organizational, or institutional evolution of HumChain Network must remain compliant with the principles established by this Constitution.
 
 Technology may evolve.
 
-Usages may evolve.
+Applications may evolve.
 
 Services may evolve.
 
-But the mission will remain unchanged:
+Economic uses may evolve.
 
-Building a global economic infrastructure by strengthening local economies through real human presence.
+But the founding mission remains unchanged:
 
-This Constitution is adopted in order to transmit to present and future generations a protocol founded on trust, responsibility, transparency, cooperation, and respect for human dignity.
+**Building a global economic infrastructure by strengthening local economies through real human participation.**
 
-For a sustainable infrastructure does not rest solely on its code.
+This Constitution is adopted to transmit to present and future generations a protocol founded on trust, responsibility, transparency, cooperation, and respect for human dignity.
 
-It rests above all on the women and men who give it life.
+Because a sustainable infrastructure does not rely solely on its code.
 
-HumChain Network — Building the global economy by strengthening local economies, one verified human at a time.
+It relies above all on the people who give it purpose and life.
+
+**HumChain Network — Building the global economy by strengthening local economies, one verified human at a time.**
