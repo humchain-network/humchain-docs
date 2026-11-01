@@ -1,262 +1,264 @@
-# Chapter 11 — The Functional Architecture of HumChain Network
+# CHAPTER 11 — THE FUNCTIONAL ARCHITECTURE OF HUMCHAIN NETWORK
 
-## An Infrastructure Designed as an Economic System
-
-HumChain Network was not designed as a simple blockchain intended to record transactions.
-
-The protocol is a complete economic infrastructure where each component fulfills a precise function in service of the same mission: building the global economy by strengthening local economies.
-
-Its architecture rests on a simple principle:
-
-The human activates the territory. The protocol creates the infrastructure. Mining distributes the currency. The real economy creates value. The treasury protects the territory. Governance preserves the vision.
-
-Each layer of the protocol intervenes at a specific stage of this economic cycle.
-
-Together, they form a coherent system where technology remains in service of human activity.
+«HumChain Network (HCN) – L1 Proof-of-Humanity
+Principle: No Human, No Money. Genesis = 0
+License: Proprietary – All Rights Reserved»
 
 ---
 
-## Layer 1 — Human Activation Layer
+### 11.1 An Infrastructure Designed as an Economic System
 
-Everything starts with a human.
+HumChain Network was not designed as a simple blockchain for recording transactions.
 
-When a person registers on HumChain Network, they declare their territory, verify their identity, phone number, and face.
+It is a decentralized economic infrastructure where each component performs a specific function in support of a single mission:
 
-This verification guarantees respect for the fundamental principle:
+Building the global economy by strengthening local economies.
 
-One person. One face. One account.
+Its architecture follows a simple sequence:
 
-If this territory has never been activated, this first registration automatically triggers the creation of its constitutional monetary allocation of 473,933,649 HCN.
+The human activates the territory.
+The protocol creates the monetary foundation.
+Mining distributes the currency.
+Commerce creates value.
+The treasury strengthens the territory.
+Governance preserves the vision.
 
-The human thus becomes the starting point of any territorial economy.
+Each layer contributes to one stage of this economic cycle.
 
-Without a verified human, no economic infrastructure exists.
+Together, they form a coherent system where technology remains entirely in the service of human economic activity.
 
 ---
 
-## Layer 2 — HCN Monetary Layer
+### 11.2 Layer 1 — Human Activation Layer
 
-This layer organizes the entire monetary life of the protocol.
+Everything begins with a verified human.
 
-It automatically applies the constitutional rules concerning:
+When a person joins HumChain Network, they declare their territory and complete the verification procedures defined by the protocol.
+
+These mechanisms uphold the fundamental principle:
+
+**One Person. One Face. One Account.**
+
+If the territory has never been activated before, the first verified human automatically triggers the creation of its constitutional monetary allocation of 473,933,649 HCN.
+
+Without a verified human, no territorial economy exists.
+
+---
+
+### 11.3 Layer 2 — HCN Monetary Layer
+
+This layer governs the monetary foundations of the protocol.
+
+It applies the constitutional rules governing:
 
 - monetary creation;
 - territorial allocation;
-- distribution;
-- circulation;
+- currency distribution;
+- monetary circulation;
 - monetary destruction.
 
-It notably guarantees that:
+It guarantees that:
 
 - the initial global supply is zero;
-- no issuance exists without human activation;
-- no territory exceeds its maximum allocation;
-- destruction mechanisms are applied automatically.
+- no currency is created without human activation;
+- each territory follows the same constitutional rules;
+- monetary mechanisms are applied automatically.
 
-This layer thus ensures the monetary stability of the protocol.
+This layer preserves the monetary integrity of HumChain Network.
 
 ---
 
-## Layer 3 — HumMiner Layer
+### 11.4 Layer 3 — HumMiner Layer
 
-The HumMiner Layer progressively distributes the 323,933,649 HCN reserved for community mining of each territory.
+The HumMiner Layer progressively distributes the 323,933,649 HCN reserved for community mining within each activated territory.
 
-It notably manages:
+It manages:
 
-- six-hour cycles;
+- participation cycles;
 - mining rewards;
 - progressive emission reductions;
-- individual histories;
-- sponsorship mechanisms provided by the protocol.
+- participant history;
+- adoption mechanisms defined by the protocol.
 
-This layer does not create additional money.
+HumMiner does not create additional currency.
 
-It only distributes money already created during activation of the territory.
-
----
-
-## Layer 4 — HumWallet Layer
-
-Each user has a personal wallet.
-
-HumWallet constitutes their financial identity within HumChain Network.
-
-It notably allows:
-
-- receiving HCN;
-- making payments;
-- sending funds;
-- consulting history;
-- signing transactions;
-- using ecosystem services.
-
-The wallet represents the direct link between the user and the network economy.
+It only distributes HCN already created when the territory was activated.
 
 ---
 
-## Layer 5 — HumEconomy Layer
+### 11.5 Layer 4 — HumWallet Layer
 
-This layer transforms distributed money into real economic activity.
+Each participant owns a personal digital wallet.
 
-It brings together all services intended for merchants, businesses, and users.
+HumWallet represents the user's financial identity within the ecosystem.
 
-It notably includes:
+It allows users to:
 
-HumMarket, intended for the creation of digital shops and commerce;
+- receive HCN;
+- securely store HCN;
+- send and receive payments;
+- review transaction history;
+- authorize transactions;
+- access ecosystem services.
 
-HumAds, allowing businesses to promote their products and services;
-
-HumLogistics, intended to facilitate physical exchanges between economic actors.
-
-This layer constitutes the economic engine of HumChain Network.
-
-It is here that money acquires its utility.
+Users remain in full control of their own HCN at all times.
 
 ---
 
-## Layer 6 — HumPay Layer
+### 11.6 Layer 5 — HumEconomy Layer
 
-HumPay allows daily use of HCN.
+This layer transforms distributed currency into real economic activity.
 
-This layer facilitates:
+It connects users, merchants, businesses, producers, and service providers.
+
+It includes economic infrastructures such as:
+
+- HumMarket, supporting commerce and digital shops;
+- HumAds, promoting economic actors;
+- HumLogistics, facilitating the movement of goods between territories.
+
+This is where HCN acquires practical utility through everyday economic activity.
+
+---
+
+### 11.7 Layer 6 — HumPay Layer
+
+HumPay enables the daily use of HCN throughout the ecosystem.
+
+It facilitates:
 
 - peer-to-peer payments;
 - merchant payments;
-- transfers between territories;
-- future international payments;
-- integration with compatible financial solutions.
+- transfers between users and territories;
+- future payment integrations with compatible financial services.
 
 Its objective is simple:
 
-Make HCN a currency truly usable in the daily economy.
+To make HCN a practical currency for real economic participation.
 
 ---
 
-## Layer 7 — HumLiquidity Layer
+### 11.8 Layer 7 — Economic Connectivity Layer
 
-Any economy needs liquidity.
+HumChain Network is designed as a decentralized economic infrastructure, not as a cryptocurrency exchange.
 
-The HumLiquidity Layer allows exchanges between digital assets while respecting the monetary rules of the protocol.
+This layer facilitates interaction between the ecosystem and external digital environments while preserving the protocol's commercial neutrality.
 
-This layer notably includes:
+Users retain ownership of their HCN in their personal wallets and may, when necessary, use independent third-party platforms to exchange or convert HCN into other digital assets.
 
-- HumP2P, intended for direct exchanges between users;
+HumChain Network does not operate, manage, or control these external trading services.
 
-- HumSwap, allowing conversions between HCN and other compatible assets.
-
-These services facilitate the circulation of value without modifying the fundamental principles of monetary creation.
+Its mission is to provide infrastructure for commerce, payments, goods, services, and economic applications rather than speculative trading.
 
 ---
 
-## Layer 8 — HumSecurity Layer
+### 11.9 Layer 8 — HumSecurity Layer
 
-Security is one of the essential missions of the protocol.
+Security protects both the blockchain and the economic ecosystem.
 
 This layer coordinates:
 
 - validators;
 - transaction validation;
-- fraud protection;
+- fraud prevention;
 - network availability;
-- application of technical rules.
+- enforcement of protocol rules.
 
-Its financing rests primarily on internal economic mechanisms and on national treasuries of activated territories.
-
-Thus, network security is directly supported by its economic activity.
+Its operation is supported by the protocol's economic mechanisms and the National Treasuries of activated territories.
 
 ---
 
-## Layer 9 — Treasury Layer
+### 11.10 Layer 9 — Treasury Layer
 
-Each activated territory has its own national treasury.
+Each activated territory owns its National Treasury.
 
-This treasury receives an initial allocation of 25,000,000 HCN upon activation of the territory.
+Upon activation, it receives the constitutional allocation of 25,000,000 HCN.
 
-Its main mission is to guarantee the security and resilience of local infrastructure.
+Its primary mission is to strengthen the resilience and sustainability of the territory.
 
-Once this mission is ensured, it can support:
+It may support:
 
 - economic development;
 - local initiatives;
-- protocol adoption;
-- infrastructure useful to the territory.
+- ecosystem adoption;
+- infrastructure benefiting the community.
 
-It constitutes a strategic reserve in service of the community.
-
----
-
-## Layer 10 — Governance Layer
-
-Governance accompanies the evolution of the protocol.
-
-It allows:
-
-- proposing improvements;
-- organizing collective decisions;
-- protecting the Constitution;
-- guaranteeing transparency of evolutions.
-
-Any innovation must respect the fundamental principles of HumChain Network.
-
-Governance accompanies the evolution of the protocol without calling its identity into question.
+It serves as a strategic reserve dedicated to territorial development.
 
 ---
 
-## Layer 11 — Universal Gateway Layer
+### 11.11 Layer 10 — Governance Layer
+
+Governance accompanies the long-term evolution of HumChain Network.
+
+It enables:
+
+- protocol improvement proposals;
+- collective decision-making;
+- protection of the Constitution;
+- transparent evolution of the ecosystem.
+
+Every evolution must remain consistent with the founding principles of HumChain Network.
+
+---
+
+### 11.12 Layer 11 — Universal Gateway Layer
 
 HumChain Network is designed as an open infrastructure.
 
-This final layer allows interconnection with the rest of the digital ecosystem.
+This layer enables future interoperability with external technologies and decentralized ecosystems.
 
-It notably facilitates:
+It may facilitate:
 
-- interactions with other blockchains;
-- Web3 services;
-- international exchanges;
-- future interoperable developments.
+- interoperability with other blockchains;
+- Web3 integrations;
+- external economic applications;
+- future compatible services.
 
-It progressively connects local economies to a decentralized global economy.
+Its objective is to progressively connect local economies to a broader decentralized global economy.
 
 ---
 
-## The Complete Economic Cycle
+### 11.13 The Complete Economic Cycle
 
-All these layers work together according to a unique logic.
+All protocol layers cooperate according to one coherent logic.
 
-A verified human joins HumChain Network.
+A verified human joins the network.
 
-Their territory is activated.
+A territory becomes active.
 
-The territorial allocation is created.
+The protocol creates its monetary foundation.
 
-Mining progressively distributes the currency.
+Mining distributes HCN.
 
-The wallet allows its use.
+HumWallet enables its use.
 
-Merchants create exchanges.
+HCN circulates through commerce, payments, and economic services while remaining under the control of its users.
+
+Merchants create economic activity.
 
 Businesses develop services.
 
-Treasuries secure territories.
+National Treasuries strengthen territories.
 
-Validators protect infrastructure.
+Validators secure the infrastructure.
 
-Governance watches over protocol stability.
+Governance protects the long-term vision.
 
-Then new territories join the network.
-
-Each activation strengthens the entire ecosystem.
+Each newly activated territory strengthens the entire ecosystem.
 
 ---
 
-## An Architecture Built to Last
+### 11.14 An Architecture Built to Last
 
-The functional architecture of HumChain Network does not separate technology from economy.
+The functional architecture of HumChain Network unifies humans, territories, currency, commerce, security, and governance within one coherent decentralized system.
 
-It connects human, money, commerce, security, governance, and territories within the same coherent system.
+Its objective is not merely to operate a blockchain.
 
-Its objective is not only to make a blockchain work.
+Its ambition is to provide a long-term economic infrastructure capable of supporting local economies while progressively connecting them into an open, decentralized, and cooperative global economy.
 
-Its ambition is to provide an infrastructure capable of sustainably supporting the development of local economies, while progressively connecting them to an open, decentralized global economy based on cooperation.
+One global infrastructure.
+One common vision.
+One verified human at a time.
 
-One global infrastructure. One common vision. One verified human at a time.
+*End of Chapter 11*
