@@ -1,113 +1,145 @@
-### Chapter 6 — Deflationary Mechanisms
+# Chapter 6 — Deflationary Mechanisms
 
-#### 6.1 An Economy Based on Balance
+## 6.1 An Economy Based on Balance
 
-HumChain Network seeks neither permanent inflation nor excessive deflation.
+HumChain Network does not seek to create artificial scarcity or manipulate the value of HCN.
 
-Its objective is to build a balanced economy in which monetary creation accompanies the integration of new territories while a portion of circulating currency is progressively withdrawn from the economy.
+Its objective is to establish a balanced economic system where monetary creation, currency circulation, and permanent supply reduction mechanisms coexist according to transparent protocol rules.
 
-This approach preserves HCN stability over the long term while supporting ecosystem development.
+Monetary creation accompanies the integration of new territories and human communities.
 
-The value of a sustainable currency rests on the balance between its issuance, its usage, and its progressive withdrawal from circulation.
+Economic activity creates circulation.
 
-#### 6.2 Why Destroy Part of HCN?
+Deflationary mechanisms contribute to maintaining long-term monetary balance.
 
-As economic activity increases, transaction volume also grows.
+The sustainability of HCN depends on the equilibrium between issuance, usage, and withdrawal mechanisms.
 
-Without a supply reduction mechanism, the quantity of HCN in circulation could grow faster than the real needs of the economy.
+### 6.2 Purpose of Monetary Destruction
 
-HumChain Network therefore introduces deflationary mechanisms intended to:
+As HumChain Network adoption grows, the volume of economic activity within the infrastructure increases.
 
-- preserve HCN scarcity;
-- accompany economic growth;
-- strengthen monetary stability;
-- protect users against excessive inflation of circulating supply.
+To preserve the coherence of the economic model, the protocol integrates permanent mechanisms that remove a portion of HCN from circulation.
 
-Monetary destruction does not aim to artificially create value, but to maintain sustainable economic balance.
+These mechanisms aim to:
 
-#### 6.3 Burning a Portion of Network Fees
+- maintain balance between created supply and circulating supply;
+- support long-term monetary predictability;
+- preserve the integrity of the economic model;
+- ensure that protocol usage contributes to monetary sustainability.
 
-Each transaction performed on HumChain Network incurs network fees.
+Monetary destruction does not constitute a mechanism intended to artificially increase HCN value.
 
-A portion of these fees is permanently destroyed according to protocol rules.
+It is a structural mechanism designed to maintain economic equilibrium.
 
-The HCN concerned are removed from circulation irreversibly.
+### 6.3 Burning a Portion of Network Fees
 
-They cannot be recreated, reassigned, or reused.
+Transactions performed on HumChain Network may generate network fees according to protocol rules.
 
-Thus, the more the network is used, the more the burning mechanism contributes to limiting circulating supply.
+A defined portion of these fees is permanently destroyed.
 
-#### 6.4 Burning a Portion of Economic Rents
+The destroyed HCN are:
 
-Various professional services of HumChain Network may be subject to economic rents.
+- removed from circulating supply;
+- permanently inaccessible;
+- impossible to recreate.
 
-According to protocol rules, 50% of rents collected are permanently destroyed.
+This mechanism links protocol usage with progressive monetary reduction.
 
-The remaining 50% are redistributed according to economic mechanisms provided by the Constitution and Tokenomics.
+The more the infrastructure is effectively used, the more the burn mechanism contributes to maintaining supply balance.
 
-This system directly associates ecosystem economic development with a progressive reduction of monetary supply.
+### 6.4 Burning a Portion of Economic Rents
 
-#### 6.5 Deflation Linked to Real Activity
+Certain economic services provided by HumChain Network may require rents or usage fees.
 
-The burning mechanism does not depend on a discretionary decision.
+According to constitutional rules:
 
-It is directly linked to effective usage of the protocol.
+- **50%** of collected economic rents are permanently destroyed;
+- **25%** are allocated to the national treasury of the concerned territory;
+- **25%** contribute to validators and network operation.
 
-The more users make payments, the more merchants develop their activities, the more businesses use HumChain Network services, the more burning mechanisms are activated.
+This mechanism ensures that economic development of the ecosystem simultaneously contributes to:
 
-Deflation thus naturally accompanies the growth of the real economy.
+- territorial resilience;
+- network security;
+- monetary sustainability.
 
-#### 6.6 A Dynamic Circulating Supply
+### 6.5 Deflation Linked to Infrastructure Usage
 
-The total supply created by activated territories constitutes a maximum limit.
+The destruction mechanisms of HCN are not based on discretionary monetary decisions.
 
-However, the supply actually in circulation evolves constantly.
+They are automatically linked to actual usage of the decentralized infrastructure.
 
-It depends notably on:
+When users, merchants, businesses, and applications interact with HumChain Network, economic activity generates protocol operations that activate these mechanisms.
 
-- the pace of mining distribution;
+Therefore, monetary reduction follows real economic participation rather than speculative activity.
+
+### 6.6 Maximum Supply and Circulating Supply
+
+HumChain Network distinguishes between:
+
+**Maximum Supply**
+
+The maximum supply corresponds to the total amount of HCN created through activated territories:
+
+**473,933,649 × Number of Activated Territories**
+
+This represents the constitutional limit of monetary creation.
+
+**Circulating Supply**
+
+The circulating supply evolves according to:
+
+- mining distribution;
 - economic exchanges;
-- burning mechanisms;
-- adoption of ecosystem services.
+- locked balances;
+- permanent destruction mechanisms.
 
-Circulating supply thus becomes a living indicator of the network's economic activity.
+Therefore, the quantity of HCN effectively available in the economy may differ from the maximum supply created by the protocol.
 
-#### 6.7 Scarcity Built Through Usage
+### 6.7 Scarcity Created by Economic Maturity
 
-In HumChain Network, scarcity is not achieved through artificially limited issuance from day one.
+In HumChain Network, scarcity does not result only from limiting monetary creation.
 
-It results progressively from:
+It emerges from the interaction between:
 
-- the end of territorial mining;
-- the continuous burning of a portion of HCN;
-- the increase in economic uses.
+- fixed territorial allocations;
+- progressive mining distribution;
+- completion of territorial mining cycles;
+- permanent destruction mechanisms;
+- increasing economic utility.
 
-This approach associates scarcity with ecosystem maturity rather than a constraint imposed from the origin.
+Scarcity is therefore a consequence of protocol design and economic activity, not an objective pursued independently from the real economy.
 
-#### 6.8 A Self-Balancing Economy
+### 6.8 A Balanced Economic Mechanism
 
-The Tokenomics of HumChain Network rests on three complementary mechanisms:
+The economic model of HumChain Network relies on three complementary mechanisms:
 
-- monetary creation upon territory activation;
-- progressive distribution through mining;
-- permanent destruction of a portion of used HCN.
+**Creation**
 
-These three mechanisms interact to maintain balance between growth, circulation, and scarcity.
+Monetary creation occurs only through activation of territories by verified humans.
 
-They allow HCN to sustainably support the development of a global economy based on proof-of-humanity and real economic activity.
+**Distribution**
 
-#### 6.9 Deflation in Service of the Mission
+Mining progressively distributes the allocation reserved for community participation.
 
-Deflationary mechanisms are not an end in themselves.
+**Reduction**
 
-They are a tool intended to preserve the economic stability of the protocol.
+A portion of HCN is permanently removed from circulation through protocol-defined mechanisms.
 
-HumChain Network does not seek to reduce circulating currency for its own sake.
+Together, these mechanisms maintain a balance between human expansion, economic circulation, and monetary sustainability.
 
-It seeks to ensure that HCN remains a useful, stable currency adapted to a constantly evolving economy.
+### 6.9 Deflation Serving the Infrastructure
 
-Technology ensures burning.
+Deflationary mechanisms are not the purpose of HumChain Network.
 
-Human activity creates value.
+They are tools designed to preserve the coherence and durability of the economic infrastructure.
 
-And the balance between the two allows HCN to sustainably support future generations.
+HumChain Network does not exist to create speculative scarcity.
+
+It exists to provide a decentralized economic foundation where currency supports exchanges between humans, merchants, businesses, and territories.
+
+Technology manages monetary rules.
+
+Human activity creates economic value.
+
+And the balance between both allows HCN to serve a real economy over the long term.
