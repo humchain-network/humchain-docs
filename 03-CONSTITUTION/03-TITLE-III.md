@@ -1,28 +1,157 @@
 # TITLE III — MINING AND MONETARY DISTRIBUTION
 
 ### Article 27 — Principle of Mining
-Mining constitutes the official mechanism of distribution of the 323,933,649 HCN reserved for community mining of each activated territory. It represents a human participation mechanism allowing verified users to progressively receive the native currency of the protocol. Mining creates no additional money beyond the constitutional allocation defined for each territory. It distributes only money already created during human activation of the territory. Fundamental principle: Human creates monetary existence. Mining distributes the currency.
+
+Mining constitutes the official mechanism for distributing the 323,933,649 HCN reserved for community mining within each activated territory.
+
+Mining is a human participation mechanism through which verified users progressively receive the native currency of the protocol.
+
+Mining does not create additional HCN beyond the constitutional allocation established for each territory.
+
+It only distributes currency created during territorial activation.
+
+Fundamental principle:
+
+**Human presence creates monetary existence. Mining distributes the currency.**
+
+---
 
 ### Article 28 — Conditions for Participation in Mining
-Any natural person who has obtained verified user status may participate in community mining in accordance with protocol rules. Participation requires notably: a declared identity; a verified phone number; facial biometric verification; a secure personal account. A natural person may only have a single mining account. The fundamental principle remains: One person = one face = one account.
+
+Any natural person who has obtained verified user status may participate in community mining according to protocol rules.
+
+Participation requires:
+
+- verified identity information;
+- verified contact information;
+- facial biometric verification;
+- a secure personal account.
+
+Each natural person may only possess one mining account.
+
+Fundamental principle:
+
+**One person = One face = One account.**
+
+---
 
 ### Article 29 — Territorial Activation and Start of Mining
-Mining of a territory can only begin after its activation by a first verified human. This activation triggers creation of the constitutional allocation of: 473,933,649 HCN distributed between: 323,933,649 HCN for community mining; 25,000,000 HCN for the national treasury; 50,000,000 HCN for public sale; 75,000,000 HCN for development, validators, and financing of merchants. Before this activation, no HCN intended for mining exists.
+
+Mining within a territory can only begin after activation by its first verified human participant.
+
+This activation triggers the creation of the constitutional territorial allocation:
+
+**473,933,649 HCN**
+
+distributed as follows:
+
+- 323,933,649 HCN for community mining;
+- 25,000,000 HCN for the National Treasury;
+- 50,000,000 HCN for public sale and ecosystem access;
+- 75,000,000 HCN for protocol development, validators and ecosystem support.
+
+Before territorial activation, no HCN reserved for mining exists.
+
+---
 
 ### Article 30 — Operation of Mining Cycles
-Mining operates according to successive cycles defined by the protocol. Each cycle allows the active user to participate in progressive distribution of HCN reserved for his territory. The user must regularly confirm participation in accordance with mechanisms provided. Temporary stop of participation suspends only future distribution of rewards. No automatic economic penalty is applied due to voluntary interruption of mining.
 
-### Article 31 — Initial Mining Reward
-The initial mining reward is set in accordance with economic parameters of the protocol. At launch, it corresponds to: 0.5 HCN per hour i.e.: 3 HCN per complete cycle of six hours. This reward evolves progressively in order to preserve balance between community adoption, equitable distribution, and monetary scarcity.
+Mining operates through successive cycles defined by protocol parameters.
+
+Each cycle allows active verified participants to contribute to the progressive distribution of the mining allocation of their territory.
+
+Participation confirmation mechanisms may be required to ensure genuine human activity.
+
+Temporary interruption of participation only affects future distribution opportunities.
+
+No economic penalty is applied solely because a user voluntarily pauses mining activity.
+
+---
+
+### Article 31 — Mining Reward Parameters
+
+Mining rewards are defined by protocol economic parameters established to maintain balance between:
+
+- adoption of the network;
+- equitable distribution;
+- long-term monetary sustainability.
+
+Initial reward parameters may be defined in the Tokenomics and protocol specifications.
+
+The Constitution establishes the principle of progressive and controlled distribution without fixing temporary economic parameters.
+
+---
 
 ### Article 32 — Progressive Reduction of Mining Emission
-In order to guarantee sustainable distribution of mining allocation, mining reward is progressively reduced according to rules provided by the protocol. Reduction occurs each time a defined volume of HCN has been distributed in a territory. This progressive decrease pursues several objectives: preserve scarcity of HCN; avoid too rapid distribution; favor sustainable participation; maintain balance between early and future participants. When the 323,933,649 HCN reserved for mining of a territory are entirely distributed, no new mining issuance can occur.
 
-### Article 33 — Guarantee Balance
-The first HCN obtained by a user may be subject to a guarantee mechanism intended to strengthen commitment of participants. An amount defined by the protocol constitutes a temporarily locked balance. This balance cannot be transferred or used as long as provided conditions are not met. This mechanism aims notably to limit opportunistic behaviors, abandoned accounts, and participation without real commitment. Release conditions are defined by economic rules of the protocol.
+To ensure sustainable distribution of the territorial mining allocation, mining rewards progressively decrease according to protocol-defined mechanisms.
+
+This reduction aims to:
+
+- preserve HCN scarcity;
+- prevent excessive early distribution;
+- maintain balance between generations of participants;
+- support long-term economic stability.
+
+Once the 323,933,649 HCN community mining allocation of a territory has been fully distributed, no additional mining distribution can occur for that territory.
+
+---
+
+### Article 33 — Miner's Security Deposit
+
+HumChain Network includes a protocol-level security mechanism called the Miner's Security Deposit.
+
+A defined portion of the first mining rewards received by a verified human is reserved and temporarily locked according to protocol rules.
+
+This security deposit:
+
+- cannot be transferred while locked;
+- cannot be used for economic activity;
+- does not represent a penalty or permanent tax.
+
+Its purpose is to strengthen:
+
+- commitment between users and their territory;
+- integrity of Proof-of-Humanity;
+- resistance against fraudulent or temporary participation.
+
+Release conditions are defined by protocol economic rules.
+
+---
 
 ### Article 34 — Sponsorship and Human Expansion
-Sponsorship constitutes a mechanism of human adoption of the protocol. Any verified user may invite new participants in accordance with territorial rules established by HumChain Network. Sponsorship aims to foster growth of real human communities and progressive expansion of local economies. It constitutes: neither an independent source of monetary creation; nor a pyramidal system; nor a property right over invited persons. Fundamental principle: We invite in our territory. We build our local economy.
+
+Sponsorship is a mechanism for human adoption and community growth.
+
+Verified users may invite new participants according to territorial rules established by HumChain Network.
+
+Sponsorship:
+
+- does not create additional HCN;
+- does not create ownership rights over invited participants;
+- does not constitute a hierarchical or pyramidal system.
+
+Its purpose is to expand authentic human communities and strengthen local economies.
+
+Fundamental principle:
+
+**We invite humans into our territory. We build our local economy.**
+
+---
 
 ### Article 35 — Integrity of Mining Distribution
-HumChain Network protects equity of monetary distribution. Any attempt to create multiple accounts, usurp identity, manipulate mining system, or circumvent proof-of-humanity mechanisms constitutes a violation of the protocol. Fraudulent accounts may be suspended or deleted in accordance with governance rules. Control mechanisms aim to guarantee that distribution of HCN remains faithful to the founding principle: No human, no money. Genesis = 0.
+
+HumChain Network protects the fairness and integrity of monetary distribution.
+
+The following actions constitute violations of protocol principles:
+
+- creation of multiple accounts;
+- identity fraud;
+- manipulation of mining mechanisms;
+- attempts to bypass Proof-of-Humanity.
+
+Fraudulent participation may be invalidated according to protocol rules and governance procedures.
+
+Security mechanisms exist to preserve the founding principle:
+
+**No Human, No Money. Genesis = 0.**
