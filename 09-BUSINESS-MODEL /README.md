@@ -9,7 +9,7 @@ It complements the Whitepaper, Tokenomics, and Yellow Paper.
 
 **Method:** Like the Whitepaper, we iterate part by part, chapter by chapter.
 
-### Structure — 7 Parts / 11 Chapters
+### Structure — 8 Parts / 13 Chapters
 
 **00 — Executive Summary**
 Overview of the full model
@@ -36,11 +36,15 @@ Overview of the full model
 **Part VI — Trust and Governance**
 - Chapter 10 — Trust as an Economic Foundation
 
-**Part VII — Vision**
-- Chapter 11 — The Economic Transformation We Seek
+**Part VII — Strategic Principles**
+- Chapter 11 — The Principle of Commercial Neutrality
+
+**Part VIII — Vision**
+- Chapter 12 — The Economic Transformation We Seek
+- Chapter 13 — General Conclusion
 
 ### Status
-Draft v0.1 — Each chapter = 1 file. Iterating in open.
+Draft v0.2 — Each chapter = 1 file. Iterating in open.
 
 ### For Contributors
 See `00-Executive-Summary.md` first, then go to the chapter you are assigned.
