@@ -1,142 +1,169 @@
-### Chapter 5 — Economic Utility of HCN
+# Chapter 5 — Economic Utility of HCN
 
-#### 5.1 Value Is Born from Utility
+## 5.1 Value Is Born from Utility
 
-A sustainable currency does not derive its value from its mere existence.
+A sustainable currency does not derive its value from its existence alone.
 
-It acquires value when it is used daily by people, businesses, and institutions to produce, buy, sell, invest, and exchange.
+It gains economic significance when people, businesses, and institutions use it to exchange value, provide services, produce, trade, and cooperate.
 
 HumChain Network was designed around this conviction.
 
-HCN is not intended to be simply held.
+HCN is not intended to exist only as a stored digital asset.
 
-It is intended to circulate.
+It is designed to circulate within a decentralized economic infrastructure where independent actors can interact.
 
-Each use strengthens its economic role and contributes to the development of the entire ecosystem.
+Each use contributes to strengthening its economic utility.
 
-#### 5.2 A Currency at the Heart of the Ecosystem
+---
 
-HCN constitutes the common currency of all services developed on HumChain Network.
+### 5.2 A Currency at the Heart of the Infrastructure
 
-Each application built on the protocol uses HCN as its reference economic unit.
+HCN constitutes the native economic unit of HumChain Network.
 
-This approach ensures that the development of new services directly increases the utility of the native currency.
+Applications, services, and tools built within or connected to the protocol may use HCN as their reference economic unit according to protocol rules.
 
-Thus, ecosystem growth naturally strengthens demand for HCN usage.
+This approach allows different economic applications to share a common monetary infrastructure while remaining independent.
 
-#### 5.3 Payments with HumPay
+The growth of usage therefore increases the practical utility of HCN.
 
-HumPay is the payment infrastructure of HumChain Network.
+---
 
-HCN notably enables:
+### 5.3 Payments with HumPay
+
+HumPay is a payment infrastructure designed to facilitate the use of HCN within HumChain Network.
+
+HCN can enable:
 
 - peer-to-peer payments;
 - merchant payments;
 - business-to-business settlements;
 - digital service payments;
-- transactions between activated territories.
+- exchanges between activated territories.
 
-HumPay transforms HCN into a currency usable in everyday life.
+HumPay provides payment capabilities.
 
-#### 5.4 Commerce with HumMarket
+It does not act as a commercial intermediary between economic actors.
 
-HumMarket constitutes the native marketplace of HumChain Network.
+---
 
-Merchants, artisans, producers, farmers, entrepreneurs, and businesses can offer their products and services there.
+### 5.4 Commerce with HumMarket
 
-HCN is used there to:
+HumMarket is a protocol-native economic application designed to facilitate discovery and exchanges between independent economic actors.
+
+Merchants, artisans, producers, farmers, entrepreneurs, and businesses may use such infrastructure to present and exchange their goods and services.
+
+HCN can be used to:
 
 - settle purchases;
 - receive payments;
-- develop a local, continental, and global customer base.
+- participate in local and cross-territory economic exchanges.
 
-Commerce represents one of the main drivers of currency circulation.
+HumChain Network does not own, control, or participate in commercial transactions.
 
-#### 5.5 Professional Services
+Commerce creates value.
 
-HCN also provides access to the various services offered by the protocol.
+The protocol provides the infrastructure that allows this value to circulate.
 
-It is notably used to:
+---
 
-- create a merchant account;
-- open a digital storefront;
-- pay deposits required by the protocol;
-- pay economic rents;
-- access professional tools.
+### 5.5 Professional Services
 
-These mechanisms ensure sustainable funding of the infrastructure while strengthening HCN utility.
+HCN may also be used for services provided by the protocol infrastructure.
 
-#### 5.6 Advertising with HumAds
+These may include:
 
-HumAds constitutes the advertising service of HumChain Network.
+- creation of a merchant account;
+- registration of economic identities;
+- access to professional tools;
+- protocol-defined deposits;
+- economic rents related to infrastructure usage.
 
-Economic actors can use HCN to promote:
+These mechanisms contribute to the sustainability of the infrastructure while strengthening the utility of HCN.
 
-- their storefronts;
+---
+
+### 5.6 Advertising with HumAds
+
+HumAds is a visibility and communication service within the HumChain Network infrastructure.
+
+Independent economic actors may use HCN to promote:
+
+- their activities;
 - their products;
 - their services;
-- their events;
-- their commercial campaigns.
+- their events.
 
-Each campaign contributes to increasing the economic activity of the ecosystem while generating additional demand for HCN.
+HumAds does not create commercial value itself.
 
-#### 5.7 Network Fees
+It provides a mechanism allowing economic actors to improve their visibility within a decentralized economic network.
 
-HCN is used to pay fees related to protocol operation.
+---
 
-These fees notably allow:
+### 5.7 Network Fees
 
-- securing operations;
-- financing economic mechanisms provided by the Constitution;
-- feeding deflationary mechanisms through burning a portion of fees.
+HCN is used to pay fees related to protocol operations.
 
-Daily use of the network thus directly participates in the economic stability of HCN.
+These fees contribute to:
 
-#### 5.8 A Circular Economy
+- network security;
+- protocol sustainability;
+- execution of decentralized operations;
+- deflationary mechanisms defined by the Constitution.
 
-The objective of HumChain Network is to create an economy where HCN circulates permanently between different actors.
+Daily use of the infrastructure therefore contributes to the economic balance of HCN.
 
-A user receives HCN through mining.
+---
 
-They spend it with a merchant.
+### 5.8 A Circular Economic Model
 
-The merchant uses it to develop their business.
+The objective of HumChain Network is to enable continuous circulation of HCN between independent participants.
 
-Suppliers are paid in HCN.
+A user receives HCN through protocol-defined distribution mechanisms.
 
-Protocol services are paid in HCN.
+They may use it with other participants.
 
-Network fees destroy a portion of circulating HCN.
+Businesses may accept it for goods and services.
 
-This permanent circulation creates an autonomous economy in which currency supports human activity.
+Economic actors may reuse it within the network.
 
-#### 5.9 An Ever-Evolving Utility
+Protocol services may require HCN payments.
 
-HCN is designed to support the future development of HumChain Network.
+A portion of certain fees may contribute to monetary destruction mechanisms.
 
-As new services join the ecosystem, new uses will strengthen its utility.
+This creates an economic model where currency supports human activity without HumChain controlling economic decisions.
 
-Each innovation compatible with the protocol's mission can integrate HCN as a medium of exchange.
+---
 
-Thus, ecosystem growth will progressively strengthen demand for currency usage without modifying its fundamental principles.
+### 5.9 An Ever-Evolving Utility
 
-#### 5.10 A Currency Carried by Its Economy
+HCN is designed to support future developments compatible with the mission of HumChain Network.
 
-The sustainable value of a currency does not come solely from its scarcity.
+As new applications and services are created around the protocol, additional uses may strengthen the utility of HCN.
 
-It results from user trust and its utility in economic life.
+Innovation remains open to developers and economic actors while respecting the fundamental principles of the Constitution.
 
-HumChain Network combines these two dimensions:
+---
+
+### 5.10 A Currency Carried by Its Economy
+
+The sustainable role of a currency does not come solely from scarcity.
+
+It results from trust, utility, and economic activity.
+
+HumChain Network combines two foundations:
 
 - monetary creation based on proof-of-humanity;
-- utility based on a real economy.
+- utility based on real human economic activity.
 
-HCN is therefore not designed to live independently of the economy.
+HCN does not exist independently from the economy.
 
-It exists because human beings create value.
+It exists because humans create value.
 
-It circulates because that value is exchanged.
+It circulates because humans exchange value.
 
-And it strengthens as local economies develop and connect with each other.
+It strengthens as local economies develop and connect.
 
-This dynamic gives HCN its vocation: to become the currency of a global economic infrastructure built from territories and human communities.
+HCN is therefore designed to become the native currency of a decentralized economic infrastructure built on human communities and territories.
+
+**HumChain Network provides the infrastructure.**
+**Humans create the economy.**
