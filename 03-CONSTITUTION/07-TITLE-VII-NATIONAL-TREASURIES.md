@@ -1,81 +1,158 @@
 # TITLE VII — NATIONAL TREASURIES
 
 ### Article 73 — Creation of National Treasuries
-Each activated territory has a national treasury.
-The national treasury is created automatically upon activation of the territory by its first verified inhabitant.
-No treasury may exist before the activation of a territory.
-It constitutes a permanent economic institution of HumChain Network within the territory concerned.
+
+Each activated territory has a National Treasury.
+
+The National Treasury is created automatically upon activation of the territory by its first verified human participant.
+
+No National Treasury may exist before territorial activation.
+
+It constitutes a protocol economic mechanism designed to support the resilience and development of the activated territory.
+
+---
 
 ### Article 74 — Constitutional Allocation
-Upon activation of a territory, an allocation of 25,000,000 HCN is attributed to its national treasury.
-This allocation is an integral part of the constitutional distribution of 473,933,649 HCN created for each territory.
-No additional allocation may be created in favor of a national treasury outside the mechanisms provided for by this Constitution.
+
+Upon activation of a territory, an allocation of:
+
+**25,000,000 HCN**
+
+is assigned to its National Treasury.
+
+This allocation forms an integral part of the constitutional territorial distribution of:
+
+**473,933,649 HCN**
+
+No additional creation of HCN may be made for a National Treasury outside the mechanisms established by this Constitution.
+
+---
 
 ### Article 75 — Mission of National Treasuries
-The national treasury's mission is to preserve the economic stability and resilience of the territory.
-It intervenes primarily to:
-- support network security in the territory;
-- strengthen infrastructure useful to the operation of the protocol;
-- support the development of the local economy;
-- promote the adoption of HumChain Network services;
-- support initiatives consistent with the mission of the protocol.
-Any intervention must be carried out in the collective interest of the territorial community.
+
+The mission of National Treasuries is to strengthen territorial resilience, economic development, and long-term participation within HumChain Network.
+
+They may contribute to:
+
+- supporting useful infrastructure;
+- strengthening territorial economic capacity;
+- supporting adoption of HumChain Network services;
+- encouraging education and ecosystem development;
+- supporting initiatives aligned with the mission of the protocol.
+
+National Treasuries serve the collective interest of the territorial community.
+
+They do not replace local economic actors.
+
+---
 
 ### Article 76 — Resources of National Treasuries
-The resources of a national treasury consist in particular of:
-- its initial allocation of 25,000,000 HCN;
-- the share of account conversion fees that accrues to it;
-- the share of economic rents provided for by the Constitution;
-- revenues attributed to it by the economic mechanisms of the protocol;
-- any other resource authorized by this Constitution.
-These resources are exclusively allocated to the missions of the treasury.
+
+National Treasury resources may include:
+
+- the initial allocation of 25,000,000 HCN;
+- economic contributions defined by protocol mechanisms;
+- resources assigned according to governance decisions;
+- other resources authorized by this Constitution.
+
+All resources remain exclusively dedicated to the mission of the National Treasury.
+
+---
 
 ### Article 77 — Management Principles
-National treasuries are administered in accordance with the principles of:
+
+National Treasuries are managed according to the principles of:
+
 - transparency;
 - accountability;
 - efficiency;
 - fairness;
-- good governance.
-Any use of resources must be justifiable, controllable, and made public in accordance with governance rules.
+- responsible governance.
+
+Every use of resources must be justified, auditable, and publicly accountable according to governance rules.
+
+---
 
 ### Article 78 — Use of Resources
-The resources of national treasuries may in particular be used to:
-- strengthen the technical infrastructure of the territory;
-- support the adoption of HumChain Network among citizens, merchants, and businesses;
-- finance training and education programs;
-- support projects promoting local economic development;
-- strengthen the resilience of the territory against risks that may affect the protocol.
-No use may be contrary to the mission of HumChain Network.
+
+National Treasury resources may be used to:
+
+- strengthen territorial infrastructure;
+- support education and adoption programs;
+- contribute to local economic development initiatives;
+- improve territorial resilience;
+- support projects consistent with HumChain Network's mission.
+
+National Treasuries provide support mechanisms.
+
+They do not control or replace the economic activity of participants.
+
+---
 
 ### Article 79 — Prohibition of Appropriation
-The resources of a national treasury belong to the community of the territory concerned.
-No natural person, representative, validator, company, or organization may declare itself owner or make personal use of them.
+
+National Treasury resources belong to the community of the concerned territory.
+
+No individual, territorial representative, validator, company, or organization may claim ownership of these resources or use them for personal purposes.
+
+The territorial activator and representatives act as participants in service of the community, not as owners of treasury resources.
+
 Any fraudulent appropriation constitutes a serious violation of this Constitution.
 
+---
+
 ### Article 80 — Control and Transparency
-Operations carried out by a national treasury are subject to the control mechanisms provided by governance.
-The community must be able to consult information relating to:
+
+Operations of National Treasuries are subject to governance control mechanisms.
+
+The community must have access to information concerning:
+
 - available resources;
-- expenses incurred;
-- projects financed;
-- decisions leading to the use of funds.
-Transparency constitutes an essential guarantee of trust.
+- allocated expenditures;
+- supported initiatives;
+- decisions governing the use of funds.
+
+Transparency constitutes a fundamental guarantee of trust.
+
+---
 
 ### Article 81 — Cooperation Between Treasuries
-National treasuries may cooperate to support common initiatives benefiting several activated territories.
-This cooperation must respect:
-- the autonomy of each territory;
-- the principles of this Constitution;
-- applicable governance rules.
-It promotes the progressive development of a global economy based on cooperation between local economies.
+
+National Treasuries may cooperate to support initiatives involving multiple activated territories.
+
+Such cooperation must respect:
+
+- territorial autonomy;
+- constitutional principles;
+- governance rules.
+
+It contributes to the development of a global economy built through cooperation between local economies.
+
+---
 
 ### Article 82 — Protection of National Treasuries
-The resources of national treasuries are protected by the protocol.
-Any attempt to divert, manipulate, unauthorized use, or compromise funds constitutes an attack on the integrity of HumChain Network.
-Technical, economic, and governance mechanisms ensure their permanent protection.
+
+National Treasury resources are protected by HumChain Network mechanisms.
+
+Attempts to:
+
+- divert resources;
+- manipulate treasury operations;
+- use funds without authorization;
+- compromise treasury integrity;
+
+constitute violations of protocol principles.
+
+Protection relies on technical, economic, and governance mechanisms.
+
+---
 
 ### Article 83 — Purpose of National Treasuries
-National treasuries constitute a fundamental pillar of HumChain Network.
-They ensure that each activated territory has the means necessary to strengthen its security, develop its economy, and contribute sustainably to global infrastructure.
-Through their existence, HumChain Network affirms that a strong global economy rests on territories capable of investing in their own development while cooperating with other communities.
+
+National Treasuries constitute a fundamental economic pillar of HumChain Network.
+
+They ensure that each activated territory possesses a foundation to strengthen its resilience, develop its economic capacity, and participate sustainably in the global infrastructure.
+
+Through National Treasuries, HumChain Network affirms a founding principle:
+
+**A strong global economy is built through strong local economies.**
