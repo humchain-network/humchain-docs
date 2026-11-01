@@ -1,54 +1,69 @@
 # Constitution of HumChain Network
 
-> No Human, No Money. Genesis = 0 HCN.
-> We Build Humans Before Technology.
+«No Human, No Money. Genesis = 0 HCN.
+We Build Humans Before Technology.»
 
-**Status:** In Progress - Will be published after Whitepaper
-**License:** CC BY-ND 4.0 - No Derivatives
+Status: In Progress — Will be published after the White Paper
+License: CC BY-ND 4.0 — No Derivatives
 
-This folder will contain the 10 Titres and 107 Articles of the Constitution.
+This document defines the fundamental principles, immutable rules and organizational framework of HumChain Network.
+
+The Constitution establishes the highest level of protocol principles. All economic, technical and governance mechanisms of HumChain Network must remain consistent with these foundations.
+
+This folder will contain the 10 Titles and 107 Articles of the Constitution.
 
 ---
 
-### Immutable Principles
+### Immutable Constitutional Principles
 
-1.  **Genesis = 0:** No pre-mine. Before activation, 0 HCN.
-2.  **Creation:** Total Supply = 473,933,649 HCN x T
-3.  **Equal-Territory:** One identical allocation per territory.
-4.  **Proof-of-Humanity:** One human = one mining unit.
+**1. Genesis = 0**
 
-### Structure - 10 Titres
+Before any territorial activation:
 
-**Titre I — Principes fondamentaux (Art. 1 à 14)**
-Identité, mission, principes fondateurs, preuve d'humanité, création monétaire, décentralisation.
+**Total Supply = 0 HCN**
 
-**Titre II — La monnaie HCN (Art. 15 à 26)**
-Rôle du HCN, création, offre territoriale, répartition, rareté, intégrité économique.
+HumChain Network has no pre-mine and no initial allocation before human and territorial activation.
 
-**Titre III — Le minage et la distribution (Art. 27 à 35)**
-Distribution des 323,933,649 HCN de minage communautaire, cycles, récompenses, parrainage, anti-fraude.
+---
 
-**Titre IV — Les utilisateurs et les comptes (Art. 36 à 48)**
-Statut utilisateurs, comptes classique/commerçant, droits, sécurité, récupération.
+**2. Territorial Creation**
 
-**Titre V — Les commerçants et les boutiques (Art. 49 à 61)**
-Rôle économique, création boutiques, loyers, cautions, HumAds, HumPay, économie réelle.
+The creation of HCN is linked to territorial activation.
 
-**Titre VI — Les validateurs et la sécurité (Art. 62 à 72)**
-Rôle validateurs, neutralité, obligations, financement, résilience réseau.
+**Total Supply = Number of Activated Territories × 473,933,649 HCN**
 
-**Titre VII — Les trésoreries nationales (Art. 73 à 83)**
-Création des trésoreries de 25,000,000 HCN, mission, gouvernance, transparence.
+No territory may receive a higher initial allocation than another.
 
-**Titre VIII — La gouvernance (Art. 84 à 90)**
-Principes de gouvernance, propositions d'évolution, hiérarchie des normes, révision.
+---
 
-**Titre IX — Principes constitutionnels immuables (Art. 91 à 97)**
-Pas d'humain pas de monnaie, activation territoriale, allocation 473,933,649 HCN, continuité vision.
+**3. Equal Territory Principle**
 
-**Titre X — Droit d'invitation et intégrité territoriale (Art. 98 à 107)**
-Système d'invitation, appartenance territoriale, Activateur territorial, Habitant Mineur, équité.
+Every activated territory receives the same economic foundation:
 
-### Reference
-- Litepaper: [01-LITEPAPER](../01-LITEPAPER/)
-- Whitepaper: [02-WHITEPAPER](../02-WHITEPAPER/)
+**1 Territory = 473,933,649 HCN = One Community = One Economy**
+
+Territorial equality is a fundamental principle of HumChain Network.
+
+---
+
+**4. Proof-of-Humanity Principle**
+
+The creation and distribution of HCN are based on verified human participation.
+
+**One verified human = One mining unit**
+
+Human existence is the foundation of currency creation.
+
+---
+
+### Constitutional Structure — 10 Titles
+
+**Title I — Fundamental Principles (Articles 1–14)**
+
+Identity, mission, founding principles, human-based monetary creation, Proof-of-Humanity, decentralization and constitutional foundations.
+
+---
+
+**Title II — The HCN Currency (Articles 15–26)**
+
+Role of HCN, territorial creation, supply principles, distribution rules
