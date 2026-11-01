@@ -1,11 +1,11 @@
-CHAPTER 3 — TERRITORIES: FOUNDATIONS OF THE GLOBAL ECONOMY
+# CHAPTER 3 — TERRITORIES: FOUNDATIONS OF THE GLOBAL ECONOMY
 
 «HumChain Network (HCN) — L1 Proof-of-Humanity
 Principle: No Human, No Money. Genesis = 0.»
 
 ---
 
-3.1 The Territory as the Foundation of Economic Development
+### 3.1 The Territory as the Foundation of Economic Development
 
 HumChain Network is built on a fundamental conviction:
 
@@ -25,7 +25,7 @@ It emerges progressively from the connection of active and autonomous local econ
 
 ---
 
-3.2 Territory Activation
+### 3.2 Territory Activation
 
 At the genesis of HumChain Network, no territory is active.
 
@@ -51,7 +51,7 @@ Without verified human presence, there is no territorial economy.
 
 ---
 
-3.3 Equality Between Territories
+### 3.3 Equality Between Territories
 
 HumChain Network applies a principle of fundamental equality between territories.
 
@@ -65,7 +65,7 @@ It depends on the ability of its inhabitants to create economic activity, develo
 
 ---
 
-3.4 An Economy Built by Its Inhabitants
+### 3.4 An Economy Built by Its Inhabitants
 
 Territorial activation does not automatically create prosperity.
 
@@ -89,7 +89,7 @@ Humans create the economy.
 
 ---
 
-3.5 The Territorial Activator
+### 3.5 The Territorial Activator
 
 The first verified inhabitant of a territory becomes its Territorial Activator.
 
@@ -105,91 +105,8 @@ The Activator is its first builder, not its owner.
 
 ---
 
-3.6 Verified Inhabitants
+### 3.6 Verified Inhabitants
 
 After activation, every new verified user joins the territory as an active participant in its economic development.
 
-Verified inhabitants contribute to the progressive distribution of community mining rewards and participate in the growth of their local ecosystem.
-
-Their role extends beyond receiving HCN.
-
-They contribute through:
-
-- economic participation;
-- commercial activity;
-- adoption of ecosystem services;
-- cooperation with other participants;
-- development of local opportunities.
-
-Each new verified human strengthens the social and economic foundation of the territory.
-
----
-
-3.7 Territorial Integrity
-
-HumChain Network protects the balance between territories through the principle of territorial integrity.
-
-Each participant contributes primarily to the development of the territory with which they are authentically connected.
-
-The territorial model is designed to encourage the creation of genuine local economies rather than artificial concentration of users into specific regions.
-
-This approach ensures that each territory develops through real human participation and authentic economic activity.
-
----
-
-3.8 Economic Development in Progressive Stages
-
-HumChain Network follows a natural economic progression.
-
-The first stage focuses on strengthening local activity:
-
-- connecting inhabitants;
-- improving visibility of merchants;
-- developing services;
-- encouraging local exchanges.
-
-Once local economies become stronger, they can progressively connect with neighboring territories and regional markets.
-
-Finally, mature economic communities can participate in wider international exchanges through the global HumChain infrastructure.
-
-This approach allows economies to grow organically:
-
-Local → Regional → Continental → Global
-
----
-
-3.9 A Global Economy Built Territory by Territory
-
-HumChain Network does not seek to create a centralized global economy.
-
-Its ambition is to connect thousands of autonomous local economies through a shared decentralized infrastructure.
-
-Each territory maintains its identity, culture, economic priorities, and internal development.
-
-At the same time, every territory benefits from the ability to cooperate with other activated territories through a common network.
-
-The global economy becomes the result of collaboration between human communities.
-
----
-
-3.10 Territories as the Engine of the HumChain Vision
-
-Territories represent the foundation upon which HumChain Network builds its entire economic model.
-
-Without territories, there are no communities.
-
-Without communities, there is no economic activity.
-
-Without economic activity, there is no lasting value.
-
-HumChain Network begins with human presence, develops through territorial participation, and expands through cooperation between local economies.
-
-Each activated territory represents a new economic foundation.
-
-Each community represents a new possibility.
-
-Together, they form a decentralized global economy built from the ground up.
-
----
-
-No Human, No Money. Genesis = 0.
+Verified inhabitants contribute to the
