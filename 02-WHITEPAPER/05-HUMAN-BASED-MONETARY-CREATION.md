@@ -1,120 +1,170 @@
 # CHAPTER 4 — HUMAN-BASED MONETARY CREATION
 
-> **HumChain Network (HCN) - L1 Proof-of-Humanity**
-> **Principle: No Human, No Money. Genesis = 0**
-> **License: Proprietary - All Rights Reserved**
+«HumChain Network (HCN) — L1 Proof-of-Humanity
+Principle: No Human, No Money. Genesis = 0»
 
 ---
 
 ### 4.1 A Currency Starting at Zero
 
-Since the emergence of the first cryptocurrencies, monetary creation has generally relied on the same principle: a quantity of tokens is created at network launch, then progressively distributed according to predefined rules.
+Since the emergence of digital currencies, most monetary systems have followed a similar approach: a quantity of tokens is created at the beginning of the network and then distributed according to predefined mechanisms.
 
-HumChain Network adopts a different approach.
+HumChain Network introduces a different model.
 
-The protocol starts with a global monetary supply of zero HCN.
+The protocol begins with a global monetary supply of:
 
-No territory owns currency before its activation. No country benefits from a prior allocation. No monetary creation occurs without the presence of a real human being.
+**0 HCN**
+
+No territory owns currency before activation.
+
+No country benefits from an initial allocation.
+
+No monetary creation occurs without verified human participation.
 
 This founding principle is summarized by a simple rule:
 
-No Human, No Money. Genesis = 0.
+**No Human, No Money. Genesis = 0.**
 
-Thus, monetary creation is no longer linked to a launch date, a technical decision, or an arbitrary issuance. It is directly conditioned by the existence of a verified human community.
+In HumChain Network, monetary creation is not determined by a launch event, an arbitrary issuance decision, or a predefined supply created independently from users.
 
-### 4.2 Territory Activation
+It begins with the existence of a verified human community.
 
-Each territory recognized by HumChain Network remains inactive as long as no verified inhabitant has joined it.
+---
 
-When a person registers for the first time in a territory by completing the verifications required by the protocol — declared identity, verified phone number, and facial biometric verification — she becomes the first verified inhabitant of that territory.
+### 4.2 Territory Activation and Monetary Birth
 
-This registration automatically triggers its economic activation.
+Each territory recognized by HumChain Network remains inactive until a first verified inhabitant joins the network.
 
-At this instant, the protocol creates the constitutional monetary allocation of the territory.
+When an individual completes the required verification process defined by the protocol, including identity verification, phone verification, and proof-of-humanity validation, this person becomes the first verified inhabitant of that territory.
 
-Activation is not just the arrival of a new user. It marks the birth of the digital economy of the territory within HumChain Network.
+This action triggers the economic activation of the territory.
 
-### 4.3 An Identical Allocation for Each Territory
+At this moment, the protocol creates the constitutional monetary allocation associated with that territory.
 
-To guarantee equality between territories, each activation gives birth to a fixed allocation of:
+Activation is therefore more than the registration of a user.
+
+It represents the birth of a new economic participation point within HumChain Network.
+
+---
+
+### 4.3 An Equal Allocation for Every Territory
+
+To preserve equality between territories, each activation generates the same constitutional allocation:
 
 **473,933,649 HCN**
 
-This allocation is distributed according to four complementary components:
+This allocation is distributed according to the economic framework defined by the Constitution:
 
 - 323,933,649 HCN for community mining;
-- 25,000,000 HCN for the National Treasury;
-- 50,000,000 HCN for public sale and ecosystem access;
-- 75,000,000 HCN for protocol development, validators, and merchant financing.
+- 25,000,000 HCN for the National Treasury and network security;
+- 50,000,000 HCN for public access mechanisms supporting ecosystem development;
+- 75,000,000 HCN for protocol development, validators, and economic ecosystem support.
 
-This distribution is defined by the HumChain Network Constitution and constitutes the fundamental economic balance of the protocol.
+This distribution establishes the initial economic foundation of each territory.
 
-No territory can receive a larger allocation.
+No territory receives a greater allocation because of its population, economic strength, political influence, or geographic position.
+
+All territories begin with the same fundamental conditions.
+
+---
 
 ### 4.4 Monetary Creation Linked to Human Presence
 
-In HumChain Network, currency does not precede populations.
+In HumChain Network, currency does not come before the community that uses it.
 
-It is populations that make currency possible.
+The community creates the conditions for the existence of the currency.
 
-Each activated territory represents a real human community participating in the network economy.
+Each activated territory represents a real human community participating in a decentralized economic infrastructure.
 
-If a territory is never activated, no monetary unit is created there.
+If a territory is never activated, no monetary allocation is created for that territory.
 
-Monetary creation thus becomes the direct consequence of human presence rather than the result of a predetermined issuance.
+Monetary creation is therefore directly connected to verified human presence rather than independent issuance.
 
-This logic establishes a permanent link between the digital economy and the people who bring it to life.
+This establishes a permanent relationship between monetary existence and human participation.
+
+---
 
 ### 4.5 An Evolving Global Supply
 
-The global supply of HCN is not known at protocol launch.
+The total global supply of HCN is not fully created at the launch of the protocol.
 
-It evolves progressively as new territories are activated.
+It develops progressively according to the activation of territories.
 
-The global supply corresponds to the sum of the allocations of the territories effectively activated during the activation period provided by the protocol.
+The global supply corresponds to the sum of the constitutional allocations of territories effectively activated within the period defined by the protocol.
 
-This approach breaks with traditional models where all monetary units exist from the origin.
+This approach differs from systems where all monetary units exist from the beginning.
 
-In HumChain Network, the global supply directly reflects the human development of the network.
+In HumChain Network, monetary growth reflects the expansion of the human and economic network.
 
-The more real communities join the protocol, the more the global economic infrastructure expands.
+As more territories become active, more communities participate in the decentralized economic infrastructure.
 
-### 4.6 Monetary Creation Without Territorial Privilege
+---
 
-Each territory benefits from exactly the same rules.
+### 4.6 Monetary Equality Between Territories
 
-No country receives a larger allocation due to its population, wealth, economic power, or political influence.
+HumChain Network establishes equal monetary foundations for every territory.
 
-Each local economy starts with the same foundations.
+No country receives a larger allocation because of:
 
-The difference between territories therefore does not result from the initial quantity of currency, but from their ability to develop economic activity, attract merchants, create useful services, and foster exchanges.
+- population size;
+- economic power;
+- political influence;
+- geographical importance.
 
-Prosperity depends on community engagement rather than an initial monetary advantage.
+Every territory begins with the same protocol-defined foundation.
 
-### 4.7 A Currency Serving the Real Economy
+The difference between territories emerges from their ability to create economic activity.
 
-The creation of HCN is not an end in itself.
+Success depends on:
 
-The territorial allocation simply provides the necessary resources to start a local economy.
+- community participation;
+- merchant adoption;
+- entrepreneurship;
+- useful services;
+- economic cooperation.
 
-Mining progressively distributes currency.
-Users circulate it.
-Merchants give it utility.
-Developers create services.
-Validators secure the infrastructure.
-National Treasuries strengthen territorial resilience.
+The protocol provides equal foundations.
 
-The value of HCN therefore does not come solely from its scarcity, but from its daily use within a living economy.
+Communities create economic outcomes.
+
+---
+
+### 4.7 A Currency Serving Economic Activity
+
+The creation of HCN is not an objective by itself.
+
+The purpose of monetary creation is to provide the foundation necessary for economic participation.
+
+Within HumChain Network:
+
+- mining distributes HCN progressively;
+- users participate in economic activities;
+- merchants provide goods and services;
+- businesses create value;
+- developers build applications;
+- validators secure the infrastructure;
+- territorial structures support development.
+
+HCN gains utility through its role as the native currency of an economic ecosystem.
+
+Its importance comes from circulation, adoption, and real-world use.
+
+---
 
 ### 4.8 A New Vision of Monetary Creation
 
-HumChain Network proposes an approach in which currency accompanies human development instead of preceding it.
+HumChain Network proposes a model where currency accompanies human development instead of existing independently from it.
 
-Each activated territory represents a new local economy.
-Each local economy progressively contributes to an interconnected global economy.
+Each activated territory represents the beginning of a local economy.
 
-Thus, monetary creation becomes the expression of a simple reality: a currency only makes sense when it is carried by women and men who produce, undertake, exchange, and cooperate.
+Each local economy contributes progressively to a connected global infrastructure.
 
-> In HumChain Network, currency is born from humans, circulates through commerce, and gains its value in the real economy.
+Monetary creation becomes the expression of a simple principle:
 
-**End of Chapter 4.**
+A currency has meaning when it supports the activity of the people who produce, exchange, cooperate, and create value.
+
+«In HumChain Network, currency is born from humans, circulates through economic activity, and gains its utility through the real economy.»
+
+---
+
+*End of Chapter 4*
