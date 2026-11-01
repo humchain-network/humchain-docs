@@ -20,7 +20,7 @@ This White Paper is the philosophical, economic and technical foundation of HumC
 | **04** | **Territories** | [`04-TERRITORIES.md`](./04-TERRITORIES.md) |
 | **05** | **Human-Based Money** | [`05-HUMAN-BASED-MONEY.md`](./05-HUMAN-BASED-MONEY.md) |
 | **06** | **Mining** | [`06-MINING.md`](./06-MINING.md) |
-| **07** | **Users and Real Economy** | [`07-USERS-AND-REAL-ECONOMY.md`](./07-USERS-AND-REAL-ECONOMY.md) |
+| **07** | **Users and Real Economy (incl. 7.12 Commercial Neutrality Principle)** | [`07-USERS-AND-REAL-ECONOMY.md`](./07-USERS-AND-REAL-ECONOMY.md) |
 | **08** | **Ecosystem** | [`08-ECOSYSTEM.md`](./08-ECOSYSTEM.md) |
 | **09** | **Economic Security** | [`09-ECONOMIC-SECURITY.md`](./09-ECONOMIC-SECURITY.md) |
 | **10** | **Governance** | [`10-GOVERNANCE.md`](./10-GOVERNANCE.md) |
@@ -28,6 +28,8 @@ This White Paper is the philosophical, economic and technical foundation of HumC
 | **12** | **Functional Architecture** | [`12-FUNCTIONAL-ARCHITECTURE.md`](./12-FUNCTIONAL-ARCHITECTURE.md) |
 | **13** | **Founding Vision** | [`13-FOUNDING-VISION.md`](./13-FOUNDING-VISION.md) |
 | **14** | **Conclusion** | [`14-CONCLUSION.md`](./14-CONCLUSION.md) |
+
+> **Update:** Chapter 7 now includes **Section 7.12 — Commercial Neutrality Principle**: HumChain is a commercial infrastructure, not a CEX/DEX. Trading is an external service.
 
 ## How to Read
 
@@ -41,7 +43,7 @@ This White Paper is the philosophical, economic and technical foundation of HumC
 
 **1. Human First** - Ch. 03, 04, 05
 **2. Infrastructure Second** - Ch. 06, 12
-**3. Real Economy Finally** - Ch. 07, 11
+**3. Real Economy Finally** - Ch. 07 (incl. Commercial Neutrality), 11
 
 ## Economic Foundation
 
