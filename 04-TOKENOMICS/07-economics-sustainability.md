@@ -1,136 +1,132 @@
-### Chapter 7 — Sustainability of the Economic Model
+# Chapter 7 — Sustainability of the Economic Model
 
-#### 7.1 An Economy Designed to Last
+## 7.1 An Economy Designed to Last
 
-HumChain Network was not designed to respond to an economic cycle of a few years.
+HumChain Network was not designed to follow short-term economic cycles or temporary market trends.
 
-The protocol was imagined as an infrastructure capable of supporting several generations.
+The protocol was conceived as a decentralized economic infrastructure capable of supporting long-term human and economic participation.
 
-Its Tokenomics favors stability over artificial growth, utility over speculation, and creation of real value over simple accumulation of currency.
+Its Tokenomics prioritizes stability over artificial growth, utility over speculation, and real economic activity over passive accumulation.
 
-Each economic mechanism was designed to maintain this balance over time.
+Each mechanism is designed to preserve coherence between monetary creation, currency circulation, and ecosystem development.
 
-#### 7.2 Growth Through Human Adoption
+### 7.2 Growth Through Human Adoption
 
 The growth of HumChain Network does not depend on unlimited monetary issuance.
 
-It relies on the progressive integration of new territories and new verified users.
+It is based on the progressive integration of verified humans, activated territories, and economic participants.
 
-Each activated territory brings:
+Each activated territory represents:
 
-- a new community;
-- a new local economy;
-- new merchants;
-- new producers;
-- new consumers.
+- a new human community;
+- a new local economic environment;
+- new merchants and entrepreneurs;
+- new producers and service providers;
+- new opportunities for economic exchange.
 
-Thus, protocol expansion is directly linked to growth in human activity.
+Protocol expansion therefore follows human participation and territorial development.
 
-#### 7.3 Commerce as the Driver of Value
+### 7.3 Commerce as the Driver of Utility
 
-Mining allows distribution of currency.
+Mining enables the distribution of HCN.
 
-However, it is not mining that sustainably creates HCN value.
+However, mining alone does not create sustainable economic value.
 
-Value is born when users:
+The utility of HCN emerges when participants use it within economic activity:
 
-- buy;
-- sell;
-- produce;
-- invest;
-- create businesses;
-- offer services.
+- purchasing goods and services;
+- selling products;
+- developing businesses;
+- providing professional services;
+- exchanging value between territories.
 
-Commerce transforms a currency distributed by the protocol into a currency used by a real economy.
+Commerce transforms a currency distributed by the protocol into a currency integrated into real economic activity.
 
 As HumChain Network states:
 
 **"Mining distributes currency. Commerce gives it utility."**
 
-#### 7.4 Local Economies as Foundation
+### 7.4 Local Economies as the Foundation of Global Growth
 
-HumChain Network considers that global prosperity rests on the strength of local economies.
+HumChain Network is based on the principle that a sustainable global economy requires strong local economies.
 
-Each activated territory develops its own economic fabric before participating in international exchanges.
+Each territory develops its own economic activity before progressively connecting with other territories.
 
-This approach allows:
+This approach supports:
 
-- supporting local producers;
-- strengthening local businesses;
-- stimulating entrepreneurship;
-- creating jobs;
-- improving economic resilience of communities.
+- local producers;
+- merchants and entrepreneurs;
+- economic cooperation;
+- community resilience;
+- territorial development.
 
-The global economy is thus built through interconnection of dynamic local economies.
+Global economic connectivity emerges from the interaction of active local economies.
 
-#### 7.5 An Economy in Permanent Evolution
+### 7.5 An Open and Evolving Infrastructure
 
-The protocol is designed to welcome new services without questioning its fundamental principles.
+HumChain Network is designed as an open economic infrastructure capable of supporting future applications and services.
 
-As the ecosystem develops, new applications can use HCN as native currency.
+New economic tools may integrate HCN as their native economic unit while respecting the fundamental principles of the protocol.
 
-This evolution will naturally strengthen:
+This evolution can strengthen:
 
-- HCN uses;
-- exchange volume;
-- economic activity;
-- deflationary mechanisms;
-- stability of the economic model.
+- currency utility;
+- economic interactions;
+- ecosystem participation;
+- long-term sustainability.
 
-Protocol growth is therefore driven by its utility.
+Protocol development is therefore driven by real usage and adoption.
 
-#### 7.6 Balance Between Creation and Destruction
+### 7.6 Balance Between Creation, Distribution, and Destruction
 
-Economic sustainability rests on interaction of three complementary mechanisms:
+The sustainability of the economic model relies on three complementary mechanisms:
 
-- monetary creation upon territory activation;
-- progressive distribution of currency through mining;
-- permanent destruction of a portion of HCN through economic activity.
+- monetary creation through territorial activation;
+- progressive distribution through community mining;
+- permanent destruction of a portion of HCN through protocol-defined mechanisms.
 
-This balance avoids both uncontrolled issuance and excessive scarcity of currency.
+Together, these mechanisms maintain a balance between network expansion, currency circulation, and monetary sustainability.
 
-It allows HCN to support growth of the real economy while preserving its stability.
+### 7.7 Governance in Service of Economic Stability
 
-#### 7.7 Governance in Service of Stability
+The sustainability of HumChain Network also depends on governance.
 
-Sustainability of the economic model also depends on governance.
+Protocol evolution must remain consistent with the Constitution, White Paper, and Tokenomics.
 
-Protocol evolutions must respect principles defined by the Constitution, the White Paper, and this Tokenomics.
+No evolution may compromise:
 
-No decision can question:
-
-- global initial supply of 0 HCN;
+- the initial global supply of 0 HCN;
 - the principle "No human, no money. Genesis = 0.";
 - monetary creation through territorial activation;
-- primacy of the real economy;
+- the primacy of the real economy;
 - human decentralization.
 
-These principles ensure continuity of the founding vision.
+These principles preserve the continuity of the founding vision.
 
-#### 7.8 An Economy Passed to Future Generations
+### 7.8 An Economic Legacy for Future Generations
 
-HumChain Network does not only build a network.
+HumChain Network does not only build a technological network.
 
-It builds an economic legacy.
+It builds a long-term economic infrastructure.
 
-Each activated territory, each merchant, each user, and each developer participates in an infrastructure destined to endure through time.
+Each activated territory, each user, each merchant, and each developer contributes to the development of an ecosystem designed to evolve over generations.
 
-Tokenomics was therefore not designed to optimize results for one generation.
+Tokenomics is therefore not designed to optimize short-term outcomes.
 
-It was designed to allow successive generations to continue producing, exchanging, cooperating, and innovating within a stable economic framework.
+It is designed to provide a stable framework where future generations can continue to create, exchange, cooperate, and innovate.
 
-#### 7.9 A Sustainable Economic Vision
+### 7.9 A Sustainable Economic Vision
 
-The sustainability of HumChain Network rests on a simple idea:
+The sustainability of HumChain Network rests on a simple principle:
 
-A currency only becomes sustainable when it sustainably supports economic life.
+**A currency becomes sustainable when it serves sustainable economic activity.**
 
-HCN was not created to be an end in itself.
+HCN was not created as an objective in itself.
 
-It exists to facilitate exchanges between human beings, support local economies, and progressively connect these economies to an open global infrastructure.
+It exists to facilitate exchanges between humans, support local economies, and connect these economies through a decentralized global infrastructure.
 
-As long as women and men create value through their work, creativity, and cooperation, HCN will fulfill its mission.
+Technology provides the infrastructure.
 
-Because, in HumChain Network, technology builds the infrastructure.
+Protocol rules protect the balance.
 
-But it is always human beings who build the economy.
+But human beings remain the source of economic creation.
