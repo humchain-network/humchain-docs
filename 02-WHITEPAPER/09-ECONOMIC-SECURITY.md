@@ -1,147 +1,138 @@
-# Chapter 8 — Securing the Economy Before Securing the Blockchain
+# CHAPTER 8 — SECURING THE ECONOMY BEFORE SECURING THE BLOCKCHAIN
 
-## Security in Service of the Economy
-
-Security is often presented as a purely technical matter. In traditional blockchains, it relies primarily on cryptographic mechanisms, validators, or computational power.
-
-HumChain Network adopts a broader approach.
-
-The protocol does not seek only to protect a blockchain. It protects an economic infrastructure composed of people, merchants, businesses, territories, and communities.
-
-Security therefore does not consist solely of preventing transaction falsification.
-
-It also consists of ensuring that the economy can operate sustainably, in a climate of trust.
+«HumChain Network (HCN) — L1 Proof-of-Humanity
+Principle: No Human, No Money. Genesis = 0»
 
 ---
 
-## Validators: Guarantors of Network Integrity
+### 8.1 Security Serving the Economy
 
-Validators ensure the technical operation of HumChain Network.
+Security is often understood as a purely technical challenge.
 
-They verify transactions, participate in block validation, maintain network availability, and enforce protocol rules.
+In traditional blockchain systems, security relies mainly on cryptographic mechanisms, validators, consensus processes, or computational resources.
 
-Their role is essential, but it remains strictly bounded.
+HumChain Network adopts a broader vision.
 
-Validators do not create money.
+The protocol does not only protect a blockchain network.
 
-They do not control territories.
+It protects an economic infrastructure composed of verified humans, merchants, businesses, territories, applications, and communities.
 
-They do not lead governance.
+Security therefore has two complementary dimensions:
 
-They serve a service mission for the benefit of the entire community.
+- protecting the technical integrity of the protocol;
+- preserving the trust necessary for economic activity.
 
-Their responsibility is to ensure that rules are applied identically for all.
+A secure economy requires more than protected transactions.
 
----
-
-## An Indispensable Neutrality
-
-Trust in a decentralized infrastructure rests on the impartiality of those who secure it.
-
-Validators cannot favor a user, a merchant, or a territory.
-
-All transactions compliant with protocol rules must be treated with the same level of rigor, regardless of their origin or destination.
-
-This neutrality protects equality among participants and strengthens the credibility of the network.
+It requires stable rules, reliable participants, and a framework where cooperation can develop.
 
 ---
 
-## National Treasuries: Local Economic Security
+### 8.2 Validators: Guardians of Network Integrity
 
-Each activated territory has a national treasury endowed with 25,000,000 HCN.
+Validators are responsible for maintaining the technical operation of HumChain Network.
 
-This treasury is an integral part of the constitutional allocation created upon activation of the territory.
+Their responsibilities include:
 
-Its primary mission is to strengthen the security and resilience of the local economy.
+- validating transactions;
+- participating in block production and verification;
+- maintaining network availability;
+- enforcing protocol rules.
 
-It can contribute to maintaining infrastructure, supporting needs related to network continuity, and supporting initiatives validated by governance that sustainably strengthen the territory.
+However, their role remains strictly limited.
 
-Thus, security does not depend solely on validators.
+Validators:
 
-It also relies on an economic capacity specific to each territory.
+- do not create monetary supply;
+- do not own territories;
+- do not control users;
+- do not replace governance.
 
----
+They serve the protocol and the community by ensuring that the rules are applied consistently to all participants.
 
-## A Decentralized Architecture by Territories
-
-HumChain Network does not centralize security around a single organization.
-
-Each activated territory participates in the robustness of the network.
-
-This organization limits risks related to resource concentration and strengthens the resilience of the entire protocol.
-
-Each new activation does not only create a local economy.
-
-It also strengthens the collective capacity of the network to withstand failures and attacks.
+Their authority comes from their technical responsibility, not from economic ownership.
 
 ---
 
-## A Shared Responsibility
+### 8.3 The Principle of Neutrality
 
-The security of HumChain Network results from the cooperation of several actors.
+A decentralized infrastructure can only maintain trust if its security mechanisms remain neutral.
 
-Users protect the uniqueness of their identity.
+Validators must not favor:
 
-Merchants develop healthy economic activity.
+- a specific user;
+- a merchant;
+- a business;
+- a territory;
+- any external interest.
 
-Developers continuously improve protocol software.
+All activities that comply with protocol rules must receive equal treatment.
 
-Validators ensure the technical integrity of the network.
+This neutrality protects the fundamental principle of HumChain Network:
 
-National treasuries strengthen the resilience of territories.
-
-Governance ensures respect for founding principles.
-
-None of these actors can alone guarantee the security of the ecosystem.
-
-It is their complementarity that ensures the stability of the whole.
+Every verified human and every activated territory participates under the same constitutional framework.
 
 ---
 
-## Security Funded by the Economy
+### 8.4 National Treasuries: Supporting Territorial Resilience
 
-HumChain Network rests on a simple principle: a sustainable economy must be able to finance its own security.
+Each activated territory receives a National Treasury allocation of:
 
-Validators are remunerated according to the economic mechanisms defined by the protocol.
+**25,000,000 HCN**
 
-Rents, certain service-related fees, and resources provided for in the Constitution contribute to financing the operation of the network.
+This allocation is part of the constitutional monetary framework created during territorial activation.
 
-National treasuries complement this mechanism by supporting the specific needs of each territory.
+Its purpose is not to create centralized control.
 
-Thus, security naturally accompanies economic development instead of depending on permanent monetary issuance.
+Its purpose is to strengthen the resilience and development capacity of each territory.
 
----
+National Treasuries may support activities defined by the Constitution, including:
 
-## Protection of the Founding Vision
+- infrastructure continuity;
+- territorial economic initiatives;
+- security-related needs;
+- ecosystem development mechanisms.
 
-Security does not only concern technical infrastructure.
-
-It also consists of protecting the fundamental principles of HumChain Network.
-
-No validator, no group of actors, nor any governance body can unilaterally modify the essential rules of the protocol.
-
-The principle "No human, no money. Genesis = 0", the territorial allocation of 473,933,649 HCN, the role of national treasuries and the fundamental mechanisms of monetary creation and destruction remain protected by the Constitution.
-
-This stability ensures that technological evolution remains faithful to the founding vision.
+Security is therefore supported not only by technical actors, but also by the economic capacity of each activated territory.
 
 ---
 
-## An Infrastructure Built to Last
+### 8.5 A Territorial Decentralized Architecture
 
-HumChain Network is designed as an infrastructure capable of supporting several generations.
+HumChain Network does not concentrate security around a single organization.
 
-Technologies will evolve.
+The protocol is structured around multiple independent territories connected through a common infrastructure.
 
-Usages will evolve.
+Each activated territory contributes to the overall strength of the network.
 
-Services will evolve.
+This architecture reduces dependence on a single point of control and improves resilience against failures or external threats.
 
-But trust, transparency, responsibility, and cooperation will remain the foundations of the protocol.
+Every new territory adds not only a new economy, but also a new participant in the collective security of the ecosystem.
 
-Because a sustainable global economy is not built solely through computer code.
+---
 
-It is built through stable rules, solid institutions, and human beings who choose to cooperate.
+### 8.6 Shared Responsibility
 
-In HumChain Network, security protects much more than a blockchain.
+The security of HumChain Network is based on the cooperation of different participants.
 
-It protects the trust necessary for the development of local economies and their connection with the rest of the world.
+Users protect the integrity of their identity.
+
+Merchants contribute to healthy economic activity.
+
+Developers improve and maintain protocol applications.
+
+Validators protect technical operations.
+
+National Treasuries support territorial resilience.
+
+Governance preserves the founding principles.
+
+No single actor can guarantee the security of the entire ecosystem.
+
+Its strength comes from the complementarity of all participants.
+
+---
+
+### 8.7 Economic Sustainability of Security
+
+HumChain Network follows a fundamental principle
