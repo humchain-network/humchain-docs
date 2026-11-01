@@ -1,40 +1,190 @@
 # TITLE IV — USERS AND ACCOUNTS
 
 ### Article 36 — Quality of User
-Any natural person who satisfies registration conditions provided by the protocol acquires quality of user of HumChain Network. Registration rests on verification of identity, phone number, and biometric uniqueness in order to guarantee the principle of proof of humanity. This quality allows access to protocol services in accordance with rights attached to type of account held. When the user is the first verified inhabitant of a territory, his registration automatically triggers economic activation of this territory and creation of its constitutional allocation of 473,933,649 HCN.
+
+Any natural person who satisfies the registration conditions defined by the protocol acquires the status of user of HumChain Network.
+
+Registration is based on identity verification, contact verification, and uniqueness verification mechanisms designed to preserve the principle of Proof-of-Humanity.
+
+This status allows access to protocol functions according to the category of account held.
+
+When a user becomes the first verified inhabitant of a non-activated territory, their registration triggers the activation of that territory and the creation of its constitutional allocation of 473,933,649 HCN.
+
+This role grants no ownership right over the territory.
+
+---
 
 ### Article 37 — Categories of Accounts
-HumChain Network distinguishes two categories of accounts: the classic account; the merchant account. Each category responds to specific needs while respecting fundamental principles of the protocol. Change of category remains possible under conditions provided by this Constitution.
 
-### Article 38 — Classic Account
-Classic account allows its holder notably to: participate in community mining; receive, store, send, and use HCN; use services intended for individuals, notably HumWallet and HumPay; make payments and transactions within the ecosystem; participate in governance when provided conditions are met. Classic account does not allow operating a commercial activity on the network.
+HumChain Network recognizes two main categories of accounts:
+
+- Personal Account;
+- Merchant Account.
+
+Each category responds to specific economic participation needs while respecting the fundamental principles of the protocol.
+
+Account conversion remains possible according to rules established by this Constitution.
+
+---
+
+### Article 38 — Personal Account
+
+The Personal Account allows its holder to:
+
+- participate in community mining according to protocol rules;
+- receive, store, send, and use HCN;
+- access services designed for individuals;
+- use economic applications built on HumChain Network;
+- participate in protocol activities according to applicable rules.
+
+The Personal Account does not authorize the operation of commercial activities as a merchant within the ecosystem.
+
+---
 
 ### Article 39 — Merchant Account
-Merchant account includes all rights attached to classic account. It allows in addition: opening one or several digital shops; selling goods and services; accessing professional services of the protocol; using HumAds to promote activity; accessing future economic tools developed for businesses. Merchants may also benefit from economic support mechanisms financed in accordance with constitutional provisions.
+
+The Merchant Account includes the rights associated with a Personal Account.
+
+It additionally allows participants to:
+
+- create economic profiles for commercial activities;
+- offer goods and services;
+- access merchant-oriented ecosystem tools;
+- use visibility and promotion services such as HumAds;
+- access future economic tools developed for businesses.
+
+Merchant participation does not transform HumChain Network into a centralized marketplace.
+
+HumChain remains a decentralized economic infrastructure enabling independent economic actors.
+
+---
 
 ### Article 40 — Account Conversion
-Holder of classic account may request conversion to merchant account. This conversion gives rise to payment of fees provided by the protocol. These fees are distributed as follows: 50% are definitively destroyed (burn); 25% are paid to national treasury of concerned territory; 25% remunerate validators and contribute to operation of network. This distribution participates simultaneously in monetary scarcity, network security, and its economic sustainability.
+
+A Personal Account holder may request conversion to a Merchant Account according to protocol conditions.
+
+Conversion mechanisms and associated fees are defined by economic rules established by HumChain Network.
+
+These mechanisms may contribute to:
+
+- monetary scarcity;
+- network security;
+- ecosystem sustainability.
+
+Their implementation must remain compliant with constitutional principles.
+
+---
 
 ### Article 41 — Account Security
-Each user remains responsible for protection of his authentication means. Protocol implements notably: biometric verification; phone number verification; personal security code; any complementary mechanism guaranteeing integrity of accounts. These devices protect digital identity of users as well as fundamental principle: One person. One face. One account.
+
+Each user is responsible for protecting their authentication mechanisms.
+
+HumChain Network may implement:
+
+- biometric verification;
+- contact verification;
+- personal security mechanisms;
+- additional protection systems.
+
+These mechanisms preserve digital identity integrity and the fundamental principle:
+
+**One person. One face. One account.**
+
+---
 
 ### Article 42 — Account Recovery
-Any user who lost access to his account may initiate official recovery procedure. Restitution of access rests exclusively on authentication mechanisms allowing to establish with certainty that requester is legitimate holder of account. No procedure can lead to attributing an account to a person different from its legitimate owner.
+
+Any user who loses access to their account may initiate an official recovery procedure.
+
+Recovery relies exclusively on authentication mechanisms capable of establishing legitimate ownership.
+
+No recovery process may transfer an account to a person other than its verified holder.
+
+---
 
 ### Article 43 — Uniqueness Principle
-Each natural person may only possess a single personal mining account. Protocol applies fundamental principle: One person = one face = one account. Any creation of multiple accounts, any identity usurpation, or any attempt to circumvent verification mechanisms constitutes fraud liable to sanctions provided by this Constitution.
+
+Each natural person may possess only one verified personal account.
+
+HumChain Network applies the principle:
+
+**One person = One face = One account.**
+
+Multiple accounts, identity fraud, or attempts to bypass verification mechanisms constitute violations of the protocol.
+
+---
 
 ### Article 44 — Rights of Users
-Any user benefits notably from following rights: participate in operation of protocol; activate his territory when he is first verified inhabitant; participate in mining in accordance with applicable rules; hold, use, and transfer HCN; access services corresponding to his account type; request recovery of his account; participate in governance when provided conditions are met.
+
+Users have the following rights:
+
+- participate in the HumChain Network ecosystem;
+- participate in mining according to applicable rules;
+- hold, use and transfer HCN;
+- access services corresponding to their account category;
+- request account recovery;
+- participate in community and governance processes when explicitly provided by protocol rules.
+
+The first verified inhabitant of a territory acts as the territorial activator of the network, without obtaining ownership rights over that territory.
+
+---
 
 ### Article 45 — Obligations of Users
-Each user commits to: provide exact information during registration; preserve confidentiality of authentication means; respect rules of protocol; never circumvent security mechanisms; contribute to development of HumChain Network in accordance with its mission. Each user thus participates in preservation of collective trust upon which protocol rests.
+
+Each user commits to:
+
+- provide accurate registration information;
+- protect authentication mechanisms;
+- respect protocol rules;
+- avoid fraudulent behavior;
+- contribute responsibly to the development of HumChain Network.
+
+Trust between participants constitutes a fundamental resource of the protocol.
+
+---
 
 ### Article 46 — Voluntary Account Closure
-Any user may request definitive closure of his account. Closure entails: definitive stop of mining; closure of associated services; possible restitution of guarantee balance in accordance with protocol rules. Closure of an account has no effect on activation of concerned territory, this remaining definitively acquired.
+
+Any user may request permanent closure of their account.
+
+Closure results in:
+
+- termination of mining activity;
+- closure of associated services;
+- treatment of locked balances according to protocol rules.
+
+The closure of an account does not cancel the activation of its territory.
+
+Territorial activation remains permanently recorded within the network.
+
+---
 
 ### Article 47 — Suspension and Sanctions
-Protocol may suspend, restrict, or delete an account when it is established that its holder: created several personal accounts; usurped an identity or a face; used fraudulent processes; compromised security or integrity of network; violated provisions of this Constitution. Any sanction decision must respect procedural guarantees provided by governance.
+
+HumChain Network may restrict or invalidate an account when its holder:
+
+- creates multiple accounts;
+- falsifies identity;
+- manipulates protocol mechanisms;
+- compromises network integrity;
+- violates constitutional provisions.
+
+Any sanction mechanism must respect procedural guarantees established by governance rules.
+
+---
 
 ### Article 48 — Protection of Users
-HumChain Network ensures guarantee of a transparent, secure, and equitable digital environment. Any evolution of identification, authentication, account recovery, or personal data protection mechanisms must respect following principles: confidentiality; proportionality; security; equality between users; respect for proof of humanity. No evolution can call into question fundamental principle of protocol: "No human, no money. Genesis = 0."
+
+HumChain Network guarantees a secure, transparent, and equitable environment for participants.
+
+Any evolution of identity verification, authentication, recovery, or data protection mechanisms must respect:
+
+- confidentiality;
+- proportionality;
+- security;
+- equality between participants;
+- respect for Proof-of-Humanity.
+
+No evolution may compromise the founding principle:
+
+**"No Human, No Money. Genesis = 0."**
