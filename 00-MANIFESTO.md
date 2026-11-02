@@ -2,139 +2,168 @@
 
 ## Preamble
 
-HumChain Network was born from a simple conviction: before currencies, before markets, before institutions, and before technologies, there has always been the human being.
+HumChain Network was born from a simple conviction:
 
-Since the earliest forms of exchange, it is neither coins, nor banknotes, nor digital assets that create wealth. It is women and men who cultivate, manufacture, teach, care, transport, invent, undertake, trade, and cooperate.
+Before currencies, before markets, before institutions, and before technologies, there has always been the human being.
 
-Money does not create value. It only allows to measure it and make it circulate.
+Since the earliest forms of exchange, wealth has never been created by money itself.
 
-HumChain Network places this evidence back at the center of economy.
+Wealth is created by women and men who cultivate, manufacture, teach, care, transport, invent, build, exchange, and cooperate.
+
+Money does not create economic value.
+
+It is a tool that allows value created by humans to be measured, transferred, and coordinated.
+
+HumChain Network places this fundamental principle back at the center of economic infrastructure.
 
 ---
 
-### Economy Begins with Human
+## Economy Begins with Human Participation
 
-Every civilization was built thanks to work, trust, and relationships between people.
+Every civilization has been built through human effort, trust, cooperation, and relationships.
 
-Economy was not born from technology.
+Economy did not emerge from technology.
 
-Technology came to improve economy created by human beings.
+Technology emerged to support, improve, and expand economic activity created by human beings.
 
-HumChain therefore refuses vision where technology becomes an end in itself.
+HumChain Network rejects the idea that technology should become the purpose itself.
 
-Technology must remain tool serving people.
+Technology must remain an instrument serving human participation.
 
-Because without human being:
+Without human beings:
 
 - there is no production;
-- there is no trade;
+- there is no commerce;
 - there is no innovation;
 - there is no economy.
 
-No human. No currency. Genesis = 0.
+**No Human. No Currency. Genesis = 0.**
 
 ---
 
-### A Global Economy Based on Territories
+## A Global Economic Infrastructure Built on Territories
 
-HumChain considers globalization can only be sustainable if each territory first develops its own economic capacity.
+HumChain Network recognizes that a sustainable global economy depends on the strength of local economies.
 
-A strong global economy rests on strong local economies.
+Global inclusion begins with territorial participation.
 
-Each territory possesses:
+Every territory carries unique value through:
 
 - its culture;
-- its know-how;
+- its knowledge;
 - its resources;
 - its producers;
 - its merchants;
 - its entrepreneurs;
-- its vision of development.
+- its communities.
 
-HumChain does not seek to standardize these differences.
+HumChain does not seek to replace these differences with a centralized model.
 
-It seeks to connect them.
+It seeks to connect them through a common decentralized economic infrastructure.
 
-Each territory thus enriches entire global community.
-
----
-
-### Proof of Humanity
-
-As technologies progress, it becomes increasingly difficult to distinguish real human being from artificial identity.
-
-HumChain affirms that economy built by humans must be able to recognize humans.
-
-Proof of Humanity does not aim to surveil individuals.
-
-It aims to protect fairness between participants.
-
-Each verified human being possesses same fundamental status within network.
-
-Value of person does not depend on wealth, origin, or territory.
-
-It derives from humanity.
+Each territory contributes its own human potential to a wider global network.
 
 ---
 
-### A New Generation of Infrastructures
+## Proof-of-Humanity: Protecting Human Participation
 
-HumChain Network was not designed as simple blockchain.
+As technology advances, distinguishing real human participation from artificial identities becomes increasingly important.
 
-It constitutes global economic infrastructure.
+An economy created by humans must be able to recognize human participants.
 
-Blockchain is one of tools.
+Proof-of-Humanity in HumChain Network is not designed for surveillance or control.
 
-HCN is economic unit.
+Its purpose is to protect fairness, trust, and equal participation within the network.
 
-Ecosystem applications are instruments.
+Every verified human participant shares the same fundamental status.
 
-But heart of network remains human being.
+Economic participation is not determined by:
 
-Infrastructure exists to facilitate economic relations between people, never to replace them.
+- wealth;
+- geographic origin;
+- social position;
+- territorial influence.
 
----
-
-### Trust as Foundation
-
-Trust is not decreed.
-
-It is built.
-
-It is born from transparency, responsibility, respect of commitments, and cooperation.
-
-HumChain seeks to create economy where trust circulates as freely as value.
-
-Because society where trust disappears always ends up weakening its economy.
+It begins with verified humanity.
 
 ---
 
-### Responsibility Towards Future Generations
+## A New Generation of Economic Infrastructure
 
-HumChain Network is not designed to respond only to needs of present.
+HumChain Network is not designed as a simple blockchain project.
 
-Protocol is thought as infrastructure called to accompany future generations.
+It is a decentralized economic infrastructure designed to enable human participation, commerce, and future economic applications.
 
-Its ambition is to transmit economic system more just, more inclusive, more transparent, and more resilient than one we inherited.
+Blockchain provides the underlying trust infrastructure.
 
-Each activated territory constitutes sustainable contribution to this vision.
+HCN serves as the native economic unit of the network.
+
+Applications, marketplaces, and services built on top of HumChain act as instruments connecting economic actors.
+
+However, the center of the network remains human activity.
+
+Infrastructure exists to facilitate economic relationships between people, not to replace them.
 
 ---
 
-### Founding Declaration
+## Neutral Infrastructure for Economic Freedom
 
-We believe wealth is born from human beings.
+HumChain Network does not seek to become a centralized marketplace, an exchange, or a financial intermediary.
 
-We believe local economies are foundation of global economy.
+The protocol provides a neutral foundation where different applications, businesses, and economic services can interact through shared principles of trust and human verification.
 
-We believe technology must serve humanity.
+HumChain does not control commerce.
 
-We believe trust is first infrastructure of sustainable economy.
+It enables commerce.
 
-We believe each verified human being deserves same status, same dignity, and same possibilities to participate in value creation.
+---
 
-HumChain Network is infrastructure of this vision.
+## Trust as the First Infrastructure
+
+Trust cannot be created by decree.
+
+It is built through transparency, responsibility, respect for commitments, and cooperation.
+
+HumChain Network seeks to establish an environment where trust becomes a fundamental layer of economic interaction.
+
+Because when trust disappears, economic relationships become weaker.
+
+A sustainable economy requires more than technology.
+
+It requires confidence between participants.
+
+---
+
+## Responsibility Towards Future Generations
+
+HumChain Network is not designed only to address present challenges.
+
+It is conceived as an infrastructure capable of supporting future generations.
+
+Its ambition is to contribute to a more inclusive, transparent, resilient, and human-centered economic system.
+
+Every activated territory represents a contribution to this global vision.
+
+Every verified human represents participation in a shared economic future.
+
+---
+
+## Founding Declaration
+
+We believe wealth is created by human beings.
+
+We believe strong local economies are the foundation of a strong global economy.
+
+We believe technology must serve humanity, not replace it.
+
+We believe trust is the first infrastructure of sustainable economic cooperation.
+
+We believe every verified human deserves equal status and equal opportunity to participate in value creation.
+
+HumChain Network is the infrastructure of this vision.
 
 It is not simply a blockchain.
 
-It is an economy built by humans, for humans.
+It is not simply a digital currency.
+
+It is a decentralized economic infrastructure built by humans, for human economic participation.
