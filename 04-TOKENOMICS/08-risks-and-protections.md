@@ -1,123 +1,116 @@
-### Chapter 8 — Economic Risks and Protection Mechanisms
+# Chapter 8 — Economic Risks and Protection Mechanisms
 
-#### 8.1 A Responsible Economy
+## 8.1 A Responsible Economic Model
 
 No economic model is completely free of risks.
 
-HumChain Network recognizes that any global economic infrastructure may face technical, economic, human, or regulatory challenges.
+HumChain Network recognizes that any global economic infrastructure may face technical, economic, human, territorial, or regulatory challenges.
 
-The objective of Tokenomics is not to claim to eliminate all risks, but to put in place mechanisms intended to prevent them, limit them, and strengthen protocol resilience.
+The objective of Tokenomics is not to claim the elimination of all risks, but to establish mechanisms designed to prevent, limit, and mitigate their potential impact.
 
-The stability of HumChain Network rests on anticipation rather than reaction.
+The resilience of HumChain Network is based on anticipation, transparency, and continuous improvement.
 
-#### 8.2 Concentration Risk
+---
 
-Excessive concentration of HCN in the hands of a limited number of actors could reduce fluidity of exchanges and weaken economic equity.
+### 8.2 Concentration Risk
 
-To limit this risk, HumChain Network notably relies on:
+Excessive concentration of HCN among a limited number of actors could reduce economic circulation and create inequalities within the ecosystem.
+
+HumChain Network limits this risk through:
 
 - a global initial supply of 0 HCN;
 - absence of pre-mining;
-- identical allocation for each activated territory;
+- identical constitutional allocation for activated territories;
 - progressive distribution through community mining;
-- monetary creation conditioned by human activation.
+- monetary creation conditioned by verified human activation.
 
-These mechanisms favor broader distribution of currency over time.
+These mechanisms favor progressive distribution and prevent initial concentration of monetary power.
 
-#### 8.3 Fraud Risk
+---
 
-Creation of fake accounts, identity theft, or attempts to circumvent protocol mechanisms constitute threats to economic integrity.
+### 8.3 Fraud and Identity Risk
 
-HumChain Network relies on proof-of-humanity to guarantee the principle:
+The creation of fraudulent accounts, identity theft, or attempts to bypass Proof-of-Humanity mechanisms represent threats to the integrity of the economic model.
+
+HumChain Network relies on the principle:
 
 **"One person. One face. One account."**
 
-Verification, control, and governance mechanisms allow identification and sanctioning of fraudulent behaviors in accordance with the Constitution.
+Verification mechanisms, security procedures, and governance rules are designed to preserve the uniqueness of human participation and protect fair monetary distribution.
 
-#### 8.4 Risk of Excessive Speculation
+---
 
-HCN can be exchanged between users.
+### 8.4 Speculation Risk
 
-However, HumChain Network was not designed as an infrastructure whose main purpose would be speculation.
+HCN may circulate between economic actors and may be exchanged according to applicable market mechanisms.
 
-The protocol favors:
+However, HumChain Network is not designed as a speculative financial infrastructure.
+
+Its primary purpose is to support:
 
 - payments;
 - commerce;
 - services;
 - production;
-- entrepreneurship.
+- entrepreneurship;
+- cooperation between territories.
 
-Economic utility remains the main factor of long-term value creation.
+The long-term sustainability of HCN depends primarily on economic utility and real-world adoption.
 
-#### 8.5 Risk of Economic Inactivity
+---
 
-A currency that is no longer used progressively loses its economic function.
+### 8.5 Economic Inactivity Risk
 
-HumChain Network limits this risk by developing an integrated ecosystem including notably:
+A currency that is disconnected from economic activity loses its fundamental utility.
+
+HumChain Network addresses this risk by building an ecosystem designed around real economic usage, including:
 
 - HumPay;
 - HumMarket;
 - HumAds;
-- digital storefronts;
+- digital shops;
 - professional services;
 - future applications compatible with the protocol.
 
-Each new service strengthens HCN uses and stimulates its circulation.
+The objective is to transform HCN from a distributed currency into a currency actively used by an economy.
 
-#### 8.6 Technical Risk
+---
 
-Protocol continuity also depends on robustness of its infrastructure.
+### 8.6 Technical Risk
 
-Validators, developers, and security mechanisms ensure:
+The continuity of HumChain Network depends on the security and reliability of its infrastructure.
+
+The protocol relies on:
+
+- decentralized validators;
+- developers contributing to protocol evolution;
+- security mechanisms;
+- governance processes.
+
+These components contribute to:
 
 - network availability;
 - transaction integrity;
-- data protection;
-- service continuity.
+- protocol resilience;
+- continuous improvement.
 
-Governance ensures continuous improvement of technical components of the protocol.
+---
 
-#### 8.7 Regulatory Risk
+### 8.7 Regulatory Risk
 
-HumChain Network is intended to be deployed in territories with different legal frameworks.
+HumChain Network is intended to operate across territories with different legal and regulatory environments.
 
-The protocol is designed to be able to adapt to regulatory evolutions without questioning its fundamental principles.
+The protocol must be capable of adapting operational mechanisms to applicable regulations while preserving its fundamental principles:
 
-Operational modalities may evolve to comply with applicable legislation, while preserving:
-
-- proof-of-humanity;
+- Proof-of-Humanity;
 - human decentralization;
 - integrity of monetary creation;
-- economic mission of the protocol.
+- primacy of the real economy.
 
-#### 8.8 Governance Risk
+Regulatory adaptation cannot become a mechanism for altering the constitutional identity of the protocol.
 
-Any governance can face manipulation attempts or conflicts of interest.
+---
 
-HumChain Network limits this risk through:
+### 8.8 Governance and Institutional Risk
 
-- transparency of decisions;
-- distribution of responsibilities;
-- protection of constitutional principles;
-- participation of different actors in the ecosystem.
-
-No single actor can modify the fundamental identity of the protocol.
-
-#### 8.9 Resilience Based on Humans
-
-The true economic security of HumChain Network does not rest solely on its computer code.
-
-It rests on a community composed of verified users, merchants, developers, validators, territorial representatives, and partners who together contribute to ecosystem development.
-
-Technology protects the network.
-
-Rules protect its operation.
-
-But it is women and men who ensure its sustainability.
-
-This is why HumChain Network affirms that the greatest guarantee of stability is not the power of a machine, but trust between human beings.
-
-Thus, the Tokenomics of HumChain Network is not limited to organizing circulation of a currency.
-
-It establishes the economic foundations of a global infrastructure designed to remain stable, useful, and faithful to its mission across generations.
+Any decentralized system may face risks related
