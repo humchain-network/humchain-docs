@@ -1,37 +1,32 @@
-# HumChain Network - Technical Overview
+# HumChain Network — Technical Overview
 
-#### Version 1.0 | October 2026
+**Version 1.0 | October 2026**
 
-### 1. Architecture
-HumChain is an L1 Equal-Territory Blockchain.
-- **Consensus:** Proof-of-Humanity + Territory Quorum
-- **Finality:** Multi-country validation required
-- **Design Goal:** Unbribable, equally distributed.
+## 1. Architecture
 
-### 2. Network Structure
-- **One Territory = One Equal Allocation:** 473,933,649 HCN per activation
-- **Global Supply Formula:** `Total Supply = N x 473,933,649 HCN` where N = activated territories
-- **Validators:** Human-verified nodes per territory. 1 human = 1 vote.
-- **No Super-Validator:** No territory can hold > 1/N of validation power.
+HumChain Network is a decentralized economic infrastructure built on a sovereign Layer 1 protocol.
 
-### 3. Allocation Breakdown per Territory
-As defined by the Constitution:
-- **323,933,649 HCN:** Community Mining (Proof-of-Humanity, emission over 20 years)
-- **25,000,000 HCN:** National Treasury (on-chain sovereign treasury)
-- **50,000,000 HCN:** Public Sale & Ecosystem Access
-- **75,000,000 HCN:** Protocol Development, Validators, Merchant Financing
+Its purpose is to provide a global coordination layer where verified humans, territories, businesses, applications, and economic services can interact through a trusted digital infrastructure.
 
-### 4. Security Model
-To attack the network, an attacker must corrupt a majority of sovereign territories, not just hashpower. Economic security = political decentralization.
+HumChain is designed around three foundational principles:
 
-### 5. Tech Stack
-- **Execution Layer:** EVM-Compatible for easy dApp migration
-- **Identity Layer:** Native Proof-of-Humanity protocol (anti-Sybil)
-- **Treasury Layer:** On-chain National Treasuries with multi-sig governance
-- **Fee Model:** Fees burned -> deflationary per territory
+- **Proof-of-Humanity:** ensuring that participation is linked to real human identities.
+- **Territorial Decentralization:** distributing network activity across equally recognized territories.
+- **Economic Neutrality:** providing infrastructure for commerce and applications without becoming a centralized marketplace, exchange, or financial intermediary.
 
-### 6. Roadmap Reference
-See `05-ROADMAP/README.md` for milestone-based deployment phases.
+> **Consensus Model:** Proof-of-Humanity + Territory Quorum  
+> **Finality Model:** Multi-territory validation required  
+> **Design Goal:** A resilient, neutral, and human-centered economic infrastructure.
 
 ---
-**Status:** Protocol Foundation (Phase I) - Specs under development.
+
+## 2. Network Structure
+
+HumChain Network is organized around activated territories, each representing an equal participation zone within the global economic infrastructure.
+
+- **One Territory = One Equal Economic Allocation**
+  
+  Each activated territory receives an identical protocol-defined allocation of HCN to support community participation, territorial development, ecosystem growth, and network sustainability.
+
+- **Global Supply Formula:**
+- 
