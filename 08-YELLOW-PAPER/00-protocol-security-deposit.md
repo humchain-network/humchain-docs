@@ -1,48 +1,77 @@
-# Yellow Paper - Section 4.2 : Protocol Security Deposit
+# Yellow Paper — Section 4.2: Protocol Security Deposit (PSD)
 
-### 1. Objective
+## 1. Objective
 
-HumChain Network introduces a security deposit mechanism designed to strengthen protocol stability, limit opportunistic behavior, and maintain a lasting relationship between each verified human identity and its territory.
+HumChain Network introduces the Protocol Security Deposit (PSD), a native protocol mechanism designed to strengthen trust, responsibility, and long-term participation within the decentralized economic infrastructure.
 
-This mechanism is an integral part of the protocol's economic policy.
+The objective of the PSD is to establish a permanent link between:
 
-### 2. Principle
+- a verified human identity;
+- an activated territory;
+- and participation within the HumChain economic network.
 
-The first 100 HCN distributed to a user through the mining mechanism are automatically allocated to an individual security deposit.
+The PSD is not a financial product, investment mechanism, or monetary incentive.
 
-These units remain the property of their holder but are temporarily unavailable.
+It is a protocol-level integrity mechanism supporting Proof-of-Humanity, Sybil resistance, and sustainable human participation.
 
-For the entire lifetime of the account, this deposit:
+---
+
+## 2. Principle
+
+For every verified human account, the first 100 HCN distributed through the Community Mining mechanism are automatically reserved by the protocol as a Protocol Security Deposit.
+
+These 100 HCN remain the property of the account holder but are temporarily locked under protocol rules.
+
+During the active lifetime of the account, the PSD:
 
 - cannot be transferred;
-- cannot be used as a means of payment;
+- cannot be used as a payment instrument;
 - cannot be exchanged;
-- does not participate in the economic operations of the ecosystem.
+- cannot participate in marketplace activities or ecosystem operations;
+- cannot be used to influence protocol decisions.
 
-### 3. Economic Function
+The PSD exists independently from the user's available economic balance.
 
-The security deposit fulfills several protocol functions:
+---
 
-- strengthen Proof-of-Humanity;
-- discourage multiple account creation (Sybil resistance);
-- limit abandoned accounts;
-- promote long-term participation in the network;
-- contribute to the economic stability of the protocol.
+## 3. Economic Function
 
-### 4. Restitution
+The Protocol Security Deposit serves several infrastructure-level purposes:
 
-The security deposit remains locked as long as the account remains active.
+### 3.1 Human Identity Integrity
 
-When a user requests permanent closure of their account, the protocol proceeds with the restitution of the deposit after applying the closure fees defined by the economic rules in force.
+The PSD strengthens the relationship between a verified human identity and its participation in HumChain Network.
 
-The HCN corresponding to the closure fees are distributed in accordance with the economic mechanisms provided for by the protocol.
+It increases the economic cost of creating fraudulent identities and contributes to the prevention of Sybil attacks.
 
-### 5. Guarantees
+### 3.2 Long-Term Network Participation
 
-The security deposit does not constitute additional monetary creation.
+By reserving an initial portion of community mining rewards, the protocol encourages responsible participation and reduces opportunistic account creation.
 
-It is fully included in the HCN distributed as part of community mining.
+### 3.3 Economic Infrastructure Stability
 
-It does not modify the maximum supply of the territory, nor the monetary policy, nor the distribution mechanisms defined by the Constitution.
+The PSD contributes to the resilience of HumChain Network by ensuring that each verified participant has a persistent connection with the protocol.
 
-This mechanism contributes exclusively to the economic security and sustainability of the protocol.
+The mechanism supports the principle:
+
+> Human participation creates economic value, and responsible participation strengthens the network.
+
+---
+
+## 4. Restitution and Account Closure
+
+The Protocol Security Deposit remains locked while the account remains active.
+
+When a user permanently requests account closure, the protocol may initiate the restitution process according to the economic rules defined by HumChain Network.
+
+Any applicable closure mechanisms or protocol-defined fees are processed according to the constitutional economic framework.
+
+The restitution process does not create new HCN.
+
+All released or redistributed HCN originate from the existing supply allocated through Community Mining.
+
+---
+
+## 5. Monetary Guarantees
+
+The Protocol Security Deposit does
